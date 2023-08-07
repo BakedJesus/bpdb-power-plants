@@ -1,0 +1,156 @@
+,own,plant_name_x,fuel_type,capacity_mw,net_generation_gwh,usage,match_name_plants,plant_name_y,costs_name,2021_units,2021_amount,2021_cost_per_unit,2022_units,2022_amount,2022_cost_per_unit,costs_name_2022
+15,Public,Kutubdia 900KW Wind PP,Wind,0,0.6083,,,,"Wind Base Power Station, Kutubdia & Hatiya",661410,4085793,6.18,599901,1531007,422,"Wind Base Power Station, Kutubdia 900KW"
+121,IPP,Sharishabari 3 MW Engreen Solar Power Plant,Solar,3,3.9442,0.15,Sharishabari 3 MW Engreen Solar Power Plant,Sharishabari 3 MW Engreen Solar Power Plant,Engreen Solar,3944220,63523756,16.11,3997213,65644538,16.42,
+123,IPP,Sympa Solar Power 8 MW,Solar,8,11.269,0.16,Sympa Solar Power 8 MW,Sympa Solar Power 8 MW,Sympa Solar Power Limited,11268182,124366922,11.04,11994460,135093706,11.26,
+16,Public,Kaptai Solar,Solar,7,9.7123,0.159,,,7.4 MW Solar Pv Power Plant At Kaptai,9712274,56235351,5.79,"9)20,827",143521777,1556,7.4 MWSolar PVPower Plant at Kaptai
+138,RENTAL & SIPP,Fenchugonj 50 MW Rental (Energy Prima),GAS,,219.7947,0.86,Fenchugonj 50 MW Rental (Energy Prima),Fenchugonj 50 MW Rental (Energy Prima),"ENERGYPRIMA, FENCHUGONJ",208743147,681674489,3.27,48318547,146415205,3.03,
+136,RENTAL & SIPP,Kumargao 10 MW Desh Combridge (15 Yrs),GAS,10,61.4628,0.7,Kumargao 10 MW Desh Combridge (15 Yrs),Kumargao 10 MW Desh Combridge (15 Yrs),"DESH CAMBRIDGE, KUMERGOAN",61412951,235977144,3.84,75345178,273009147,3.62,
+149,RENTAL & SIPP,Amnura 50MW Sinha Power,F.oil,50,34.312,0.08,Amnura 50MW Sinha Power,Amnura 50MW Sinha Power,AMNURA(SINHA POWER GENERATION),16256328,108212126,6.66,20839351,274117988,13.15,
+88,IPP,Powerpac Mutiara Jamalpur Power plant Ltd,F.Oil,95,289.7374,0.35,Powerpac Mutiara Jamalpur Power plant Ltd,Powerpac Mutiara Jamalpur Power plant Ltd,Power Pac Motiara - Jamalpur,289737408,3268082838,11.28,13945632,307097193,22.02,
+142,RENTAL & SIPP,Shahjahanullah Power Gen Co. Ltd.,GAS,,102.6552,0.47,Shahjahanullah Power Gen Co. Ltd.,Shahjahanullah Power Gen Co. Ltd.,Shahjanullah Power Generation Co. Ltd.,102686146,354266198,3.45,119664201,413061164,3.45,
+28,Public,Ashuganj 50 MW PP,Gas,53,184.7955,0.483,Ashuganj 50 MW PP,Ashuganj 50 MW PP,APSCL (New 50 MW),184795542,439275908,2.38,194969682,417729941,2.14,
+61,IPP,20 MW Solar Teknaf,Solar,20,33.4382,0.19,,,Technaf Solartech Energy Ltd. (20MW),33438191,394598682,11.8,37555078,452146681,12.04,Technaf Solartech Energy Ltd.(20MW)
+66,RENTAL & SIPP,Barabkundu SIPP 22 MW (Regent Power),GAS,22,157.7652,0.82,,,Regent Power Ltd.,157765152,463450991,2.94,147081880,453755759,3.09,Regent  Power Ltd.
+64,RENTAL & SIPP,Tangail SIPP (22 MW) (Doreen Power Ltd.),GAS,22,141.1988,0.73,,,Doreen Power Generation & System Ltd.- Tangail,151198828,432331158,2.86,156351263,462019663,2.96,Doreen Power Generation& System Ltd.-Tangail
+132,RENTAL & SIPP,Feni SIPP (22 MW) (Doreen Power Ltd.),GAS,22,160.0048,0.83,Feni SIPP (22 MW) (Doreen Power Ltd.),Feni SIPP (22 MW) (Doreen Power Ltd.),Doreen Power Generation & System Ltd.-Feni,160004772,459479489,2.87,161137638,467524474,2.9,
+83,IPP,Sinha Peoples Energy Ltd.Katpatti 52.5 MW Exp,F.Oil,51,21.3606,0.05,Sinha Peoples Energy Ltd.Katpatti 52.5 MW Exp,Sinha Peoples Energy Ltd.Katpatti 52.5 MW Exp,Sinha People Energy Ltd.,21026448,812740081,38.65,25438560,497991030,19.58,
+68,RENTAL & SIPP,Khanjahan Ali Noapara  40 MW,F.oil,,92.2828,0.29,,,KHANJAHAN ALI POWER LTD.,92282785,1363243262,14.77,29896435,586325265,"19,61",KHANJAHAN ALIPOWER LTD.
+125,IPP,Manikganj 35MW Spectra Solar Park Ltd.,Solar,35,29.1477,0.1,Manikganj 35MW Spectra Solar Park Ltd.,Manikganj 35MW Spectra Solar Park Ltd.,Spectra Solar Park,20066259,207814734,10.36,52473009,627377593,11.96,
+67,RENTAL & SIPP,Bhola 32 MW (Venture Energy Resources Ltd.),GAS,33,199.538,0.69,,,"VENTURE ENERGY, BHOLA",199537974,796370803,3.99,189564498,672491504,3.55,"VENTUREENERGY,BHOLA"
+128,RENTAL & SIPP,Bogura RPP (24MW) 15 yrs,GAS,22,167.4902,0.87,Bogura RPP (24MW) 15 yrs,Bogura RPP (24MW) 15 yrs,GBB POWER LTD.,167490216,656939574,,167469576,685508842,4.09,
+13,Public,Shikalbaha 150 MW Peaking PP,Gas,,641.9223,0.505,,,Shikalbaha Power Station (Gas Generation),642083760,2107885049,3.28,91759968,792042727,8.63,Shikalbaha Power Station (Dual Fuel)
+26,Public,"Baghabari 71 MW /GT
+Baghabari 100 MW /GT",Gas,71,57.6144,0.18,,,Baghabari Power Station,110150010,992715721,9.01,51893680,857449266,1652,Baghabari PowerStation
+153,IMPORT,Power Import (Bheramara-Bharampur Phase-1),Import,500,1730.726,,Power Import (Bheramara-Bharampur Phase-1),Power Import (Bheramara-Bharampur Phase-1),Power Grid Corporation of India - 250MW,,993616464,7.21,-,886126987,-,
+46,Public,Faridpur 50 MW Peaking PP,F.Oil,54,15.5429,0.037,Faridpur 50 MW Peaking PP,Faridpur 50 MW Peaking PP,Faridpur Peacking Power Plant,15542880,729884028,46.96,42848640,894781197,20.93,
+133,RENTAL & SIPP,Jangalia 33 MW (Summit Purbanchol Po. Co. Ltd.),GAS,33,258.2576,0.89,Jangalia 33 MW (Summit Purbanchol Po. Co. Ltd.),Jangalia 33 MW (Summit Purbanchol Po. Co. Ltd.),Summit Purbachal Power Ltd.-Jangalia,258257635,941362032,3.65,232729909,945539654,4.06,
+6,Public,210 MW Shiddirganj TPP,Gas,210,-1.287,,,,Siddirgonj Power Station,-1287000,828728526,,"11,05iro8)",985170541,,Siddirgonj PowerStation
+67,IPP,Midland Power Co. Ashuganj 51 MW,GAS,51,294.124,0.66,Midland Power Co. Ashuganj 51 MW,Midland Power Co. Ashuganj 51 MW,Midland Power Company Ltd.,294124026,930353155,3.16,370760585,1021219011,2.75,
+134,RENTAL & SIPP,Ashugonj  55 MW 3Yrs Rental (Precision Energy),GAS,55,208.8067,0.43,Ashugonj  55 MW 3Yrs Rental (Precision Energy),Ashugonj  55 MW 3Yrs Rental (Precision Energy),PRECISION ENERGY LTD.,208806744,1091909673,5.23,276586308,1257886706,4.55,
+143,RENTAL & SIPP,Aggreko 95 MW Bhola,GAS,95,511.5654,0.61,Aggreko 95 MW Bhola,Aggreko 95 MW Bhola,AGGREKO INTERNATIONAL LTD.-BHOLA (95 MW),559103805,2310334606,4.13,103561853,1327286944,"12,82",
+62,IPP,50 MW HDFC Solar Power Plant,Solar,50,64.8588,0.15,,,HDFC SinPower Ltd. (50MW),61439464,883676770,14.38,92430240,1358708897,14.7,HDFC SinPower Ltd.(50MW)
+71,IPP,Regent Energy & Power Ltd 108 MW,GAS,108,591.4501,0.63,Regent Energy & Power Ltd 108 MW,Regent Energy & Power Ltd 108 MW,Regent Energy & Power Ltd.,591450096,1726171586,2.92,360724103,1472507201,4.08,
+20,Public,RPCL Raozan 25 MW,F.Oil,25,68.4048,0.321,RPCL Raozan 25 MW,RPCL Raozan 25 MW,RPCL 25MW Rawjan,68409238,932009423,13.62,80466131,1502164876,18.67,
+7,Public,Siddhirganj 2x120 MW GTPP,Gas,210,563.9633,0.318,,,EGCB Ltd. (210X2) MW,563946120,2694566404,4.78,116096664,1631192273,14.05,EGCB Ltd.(21OX2)MW
+32,Public,Chandpur 150 MW CCPP,Gas,163,596.5169,0.441,Chandpur 150 MW CCPP,Chandpur 150 MW CCPP,Chadpur CC Power Plant,596516880,2118526788,3.55,726768536,2057993424,223,
+146,RENTAL & SIPP,Summit  Power Co. Ltd Madangonj (100 MW),F.oil,102,353.3363,0.4,Summit  Power Co. Ltd Madangonj (100 MW),Summit  Power Co. Ltd Madangonj (100 MW),SUMMIT NARAYANGONJ POWER LTD.,353336328,3436136533,9.72,109319891,2100228103,19.21,
+144,RENTAL & SIPP,KPCL( 115 MW) U-2,F.oil,115,433.6464,0.43,KPCL( 115 MW) U-2,KPCL( 115 MW) U-2,KPCL -UNIT-2,433646409,4998784772,11.53,107420657,2138624001,19.91,
+51,Public,Sirajgonj 210 MW CC (NWPGCL) Unit-1,Gas,210,216.5913,0.122,Sirajgonj 210 MW CC (NWPGCL) Unit-1,Sirajgonj 210 MW CC (NWPGCL) Unit-1,North West Power Gen (NWPGCL)- Sirajgonj,216329490,2382001459,11.01,224720935,2148277482,9.56,
+65,RENTAL & SIPP,Sahzibazar 86 MW RPP (15 yrs),GAS,86,605.4847,0.8,,,SHAHJIBAZAR POWER CO. LTD.,605484672,2039822897,3.37,619933776,2194442394,3.54,SHAHJIBAZARPOWER CO.LTD.
+84,IPP,Summit   Barishal (110 MW),F.Oil,110,218.6086,0.23,Summit   Barishal (110 MW),Summit   Barishal (110 MW),Summit Barishal Power Ltd.,218608608,3167467899,14.49,62791776,2313583188,36.85,
+54,IPP,Tangail Polly Power 22 MW TPPGCl,F.Oil,22,74.9804,0.39,,,Tangail Palli Power Generation Ltd. (22MW),71669647,890544548,12.43,149421480,2365086053,15.83,Tangail Palli Power Generation Ltd.(22MW)
+114,IPP,United Payra PP Patuakhali Imp,F.Oil,150,33.4596,0.03,United Payra PP Patuakhali Imp,United Payra PP Patuakhali Imp,United Payra (150MW),33419172,1077171595,32.23,76919436,2502197530,32.53,
+150,RENTAL & SIPP,"Power Pac Mutiara,Keranigonj,100MW",F.oil,100,217.866,0.25,"Power Pac Mutiara,Keranigonj,100MW","Power Pac Mutiara,Keranigonj,100MW",POWER PAC MUTIARA KERANIGONJ,217866024,1792998493,8.23,91903200,2515217918,27.37,
+25,Public, Ashuganj TPP Unit-3,Gas,150,222.9391,0.209,Ashuganj TPP Unit-3,Ashuganj TPP Unit-3,APSCL (Except New 573 MW),711938656,3725662841,5.23,347574918,2516021467,7.24,
+26,Public, Ashuganj TPP Unit-4,Gas,150,279.6746,0.261,Ashuganj TPP Unit-4,Ashuganj TPP Unit-4,APSCL (Except New 573 MW),711938656,3725662841,5.23,347574918,2516021467,7.24,
+27,Public, Ashuganj TPP Unit-5,Gas,150,215.2755,0.202,Ashuganj TPP Unit-5,Ashuganj TPP Unit-5,APSCL (Except New 573 MW),711938656,3725662841,5.23,347574918,2516021467,7.24,
+48,Public,Modhumoti 105 MW NWPGCL,F.Oil,105,12.4258,0.015,Modhumoti 105 MW NWPGCL,Modhumoti 105 MW NWPGCL,North West Power Gen (NWPGCL)- Madhumati,11607408,1485423700,127.97,98005392,2787875557,28.45,
+74,IPP,Kushiara power Co. Ltd (163MW)CCPP Fenchuganj,GAS,163,1065.5715,0.75,Kushiara power Co. Ltd (163MW)CCPP Fenchuganj,Kushiara power Co. Ltd (163MW)CCPP Fenchuganj,Kushiara Power Company Ltd.,1065571452,3184203020,2.99,1038532925,3185653217,3.07,
+70,RENTAL & SIPP,Shiddirganj  Dutchbangla 100 MW,F.oil,100,366.3626,0.42,,,DUTCH BANGLA POWER & ASSOCIATES LTD.,366362581,4588701719,12.53,161026042,3250631030,20.19,DUTCH BANGLA POWER& ASSOCIATES LTD.
+69,IPP,Haripur Power Ltd.,GAS,360,2315.379,0.73,Haripur Power Ltd.,Haripur Power Ltd.,Haripur Power Ltd.,2315379010,3878445190,1.68,1919174000,3267873587,1.7,
+55,IPP,Bhairab Power 54.5 MW,F.Oil,54,70.3824,0.15,,,Bhairab Power Limited (54.50MW),70305840,877217319,12.48,198278640,3361477855,16.95,Bhairab Power Limited (54.S0MW)
+80,IPP,Baraka Patenga,F.Oil,50,198.9216,0.45,Baraka Patenga,Baraka Patenga,Baraka Patenga Power Limited,198921600,2363521802,11.88,232871760,3620246651,15.55,
+82,IPP,Lakdhanvi lanka- Bangla Jangalia Cumilla 52MW,F.Oil,52,158.5054,0.35,Lakdhanvi lanka- Bangla Jangalia Cumilla 52MW,Lakdhanvi lanka- Bangla Jangalia Cumilla 52MW,Lakdhanvi Bangla Power Ltd.,159349441,2229819012,13.99,217114112,3654069728,16.83,
+78,IPP,Raj Lanka Power Gen.Com. Ltd.Nator 55 MW,F.Oil,52,146.3081,0.32,Raj Lanka Power Gen.Com. Ltd.Nator 55 MW,Raj Lanka Power Gen.Com. Ltd.Nator 55 MW,Raj Lanka Power Limited,146308138,1806686667,12.35,234706041,3656894613,15.58,
+57,IPP,Noapara100MW (Bangla Trac),HSD,100,122.2197,0.14,,,Bangla Track Power Company Ltd. (Unit-2),122851008,3855255637,31.38,102068064,3703225481,36.28,Bangla Track Power Company Ltd.(Unit-2)
+10,Public,Gazipur 52 MW PP,F.Oil,52,112.6812,0.255,Gazipur 52 MW PP,Gazipur 52 MW PP,RPCL 52MW Gazipur,112666731,1794318893,15.93,209417122,3793092964,18.11,
+151,RENTAL & SIPP,Julda Acorn Infra.service Ltd.100MW,F.oil,100,189.9422,0.22,Julda Acorn Infra.service Ltd.100MW,Julda Acorn Infra.service Ltd.100MW,ACRON INFRASTRUCTURE SERVICE LTD.,189942210,3132864948,16.49,222839580,4110168523,18.44,
+37,IPP,Rural Power Company Ltd.(RPCL),GAS,210,1150.0912,0.63,,,RPC LTD. Mymensingh (210 MW),1150056632,3840313302,3.34,1106935572,4130993792,3.73,RPC LTD.Mymensingh (210 MW)
+59,IPP,"Aggreko, Brahmangaon 100MW",HSD,100,28.8673,0.03,,,Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),28478637,2164581074,76.01,120485001,4245841612,35.24,Aggreko EnergySolutionLtd.- Bhahmangoan (1OOMW)
+58,IPP,"Aggreko, Aourahati 100MW",HSD,100,37.1663,0.04,,,Aggreko Energy Solution Ltd. - Aorahati (100MW),37076045,2377751737,64.13,131526563,4417000846,33.58,Aggreko Energy Solution Ltd.- Aorahati (1OOMW)
+58,Public,Sirajgonj 210 MW CC (NWPGCL) Unit-3,Gas,220,1447.0055,0.781,Sirajgonj 210 MW CC (NWPGCL) Unit-3,Sirajgonj 210 MW CC (NWPGCL) Unit-3,North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3),1447005461,4890841676,3.38,1220422550,4748113291,3.89,
+86,IPP,Dhaka(Doreen) Northern Power Ltd.Manikgonj,F.Oil,55,231.8441,0.48,Dhaka(Doreen) Northern Power Ltd.Manikgonj,Dhaka(Doreen) Northern Power Ltd.Manikgonj,Doreen Northern Power Limited,231844112,2641124870,11.39,297602757,4903100529,16.48,
+152,RENTAL & SIPP,Katakhali (Northern) Peaking,F.oil,50,21.6708,0.05,Katakhali (Northern) Peaking,Katakhali (Northern) Peaking,NORTHERN POWER,21344414,224115126,10.5,297602757,4903100529,16.48,
+8,Public,Haripur 412 MW CCPP,Gas,412,1817.5804,0.527,,,EGCB Ltd. (412) MW,1803485796,5421654625,3.01,1981733402,4954975092,2.5,EGCB Ltd.(412)MW
+40,IPP,Nutan Biddyut 220MW Bhola,GAS,220,266.9117,0.14,,,Nutan Bidyut (Bangladesh) Ltd. (220MW),160931128,284039503,1.76,1653494918,4973733765,3.01,Nutan Bidyut (Bangladesh)Ltd.(220MW)
+85,IPP,Summit Narayangonj Power unit-2 Madangonj (55 MW),F.Oil,55,259.5017,0.54,Summit Narayangonj Power unit-2 Madangonj (55 MW),Summit Narayangonj Power unit-2 Madangonj (55 MW),Summit Narayangonj Power Unit II Ltd.,259501715,2969690929,11.44,288604038,4990935236,17.29,
+51,IPP,Jodiac Power,F.Oil,54,276.7625,0.59,,,Zodiac Power Ctg. Ltd.,276762524,3085394329,11.15,320369811,5029347420,15.7,Zodiac Power Ctg.Ltd.
+87,IPP,Dhaka(Doreen) Southern Power Ltd.Nobabgonj,F.Oil,55,237.8964,0.49,Dhaka(Doreen) Southern Power Ltd.Nobabgonj,Dhaka(Doreen) Southern Power Ltd.Nobabgonj,Doreen Southern Power Limited,237896381,2684321524,11.28,311143774,5040225092,16.2,
+29,Public,Ashuganj 225 MW CCPP,Gas,221,1574.3307,0.828,Ashuganj 225 MW CCPP,Ashuganj 225 MW CCPP,APSCL (225 MW),1574330675,5139666301,3.26,1579703499,5245040830,3.32,
+70,IPP,Meghnaghat Power Ltd.,GAS,450,2275.4899,0.58,Meghnaghat Power Ltd.,Meghnaghat Power Ltd.,Meghnaghat Power Ltd.,2276324250,6238656026,2.74,2140792000,5709336569,2.67,
+105,IPP,Feni Lanka Power 114 MW PP,F.Oil,114,193.2808,0.19,Feni Lanka Power 114 MW PP,Feni Lanka Power 114 MW PP,Lanka Power Limited - Feni,193243406,2993516085,15.49,329452681,5721652913,17.37,
+60,IPP,Paramount Baghabari BanglaTrack,HSD,200,22.1198,0.01,,,Paramount BTrac Energy Ltd. - Sirajgonj,21514556,3887016999,180.67,104571634,5791953269,55.39,Paramount BTrac Energy Ltd.- Sirajgonj
+9,Public,Siddhirganj 335 MW CCPP,Gas,335,1042.3959,0.373,,,EGCB Ltd. (360) MW,1039616357,3656399175,3.52,1419204804,5958406989,4.2,EGCB Ltd.(360)MW
+31,Public,Ashuganj 450 MW CCPP (North),Gas,360,2088.9237,0.694,Ashuganj 450 MW CCPP (North),Ashuganj 450 MW CCPP (North),APSCL (450 MW) North,2088923729,5900126978,2.82,2017615091,5960985814,2.95,
+90,IPP,Kamalaghat Banco Energy Generation,F.Oil,54,309.349,0.65,Kamalaghat Banco Energy Generation,Kamalaghat Banco Energy Generation,M/S Banco Energy Generation Ltd.,309349044,3548402788,11.47,376975008,5969027473,15.83,
+73,IPP,Summit Bibiyana - II Power Co Ltd. 341 MW,GAS,341,2455.8871,0.82,Summit Bibiyana - II Power Co Ltd. 341 MW,Summit Bibiyana - II Power Co Ltd. 341 MW,Summit Bibiyana II Power Company Ltd.,2455887148,6030061928,2.46,2310625924,5996723144,2.6,
+76,IPP,Summit Meghnaghat Power Co.Ltd.,GAS,305,1559.0939,0.58,Summit Meghnaghat Power Co.Ltd.,Summit Meghnaghat Power Co.Ltd.,Summit Meghnaghat Power Ltd.,1559093909,6547648630,4.2,1524542505,6428574957,4.22,
+116,IPP,Daudkandi 200MW(Bangla Trac),HSD,200,40.5404,0.02,Daudkandi 200MW(Bangla Trac),Daudkandi 200MW(Bangla Trac),Bangla Track Power Company Ltd.,39585792,4185097685,105.72,159163968,6736713233,42.33,
+45,Public,Bheramara 360 MW CCPP (NWPGCL),Gas,410,2706.8683,0.789,Bheramara 360 MW CCPP (NWPGCL),Bheramara 360 MW CCPP (NWPGCL),North West Power Gen (NWPGCL)- Bheramara,2706234738,7636097844,2.82,1966292933,6934357044,3.53,
+41,IPP,ECPV Chattogram Limited 108 MW,F.Oil,108,190.2545,0.2,,,ECPV Power Ltd.,190254480,2569220856,13.5,407101368,7158148504,17.58,ECPVPower Ltd.
+79,IPP,Digital  Power & Associates Gagnagar,F.Oil,102,325.564,0.36,Digital  Power & Associates Gagnagar,Digital  Power & Associates Gagnagar,Digital Power & Associates Ltd.,325564002,3736039993,11.48,440988642,7478876342,16.96,
+71,IMPORT,Import from Tripura (1st Phase),Import,100,1028.818,,,,NVVN Ltd. - India 160 MW (Tripura),1028817960,7420242117,3.13,941241612,7484684395,7.95,NWN Ltd.- India 160 MW (Tripura)
+72,IMPORT,Import from Tripura (2nd  Phase),Import,60,1023.5395,,,,NVVN Ltd. - India 160 MW (Tripura),1028817960,7420242117,3.13,941241612,7484684395,7.95,NWN Ltd.- India 160 MW (Tripura)
+57,Public,Sirajgonj 210 MW CC (NWPGCL) Unit-2,Gas,220,1135.6566,0.616,Sirajgonj 210 MW CC (NWPGCL) Unit-2,Sirajgonj 210 MW CC (NWPGCL) Unit-2,North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2),1135656573,4351973695,3.83,1008745563,7522171723,7.46,
+30,Public,Ashuganj 450 MW CCPP (South),Gas,360,1955.573,0.646,Ashuganj 450 MW CCPP (South),Ashuganj 450 MW CCPP (South),APSCL (450 MW) South,1955572989,7571323434,3.87,2135112449,8036514579,3.76,
+53,IPP,Julda 100 MW Unit - 2 (Acorn ),F.Oil,100,687.7112,0.79,,,Acron Infrastructure Services Ltd. Unit-2,687711168,7359103192,10.7,512083584,8055322054,15.73,Acron Infrastructure Services Ltd.Unit-2
+110,IPP,Orion Power Sonargaon Ltd.,F.Oil,104,451.8127,0.5,Orion Power Sonargaon Ltd.,Orion Power Sonargaon Ltd.,Orion Power Sonargaon Ltd.,451901664,5095211408,11.28,638940480,8427320532,13.19,
+47,IPP,Juldha Acorn 100 MW Unit-3,F.Oil,100,610.5613,0.7,,,Acron Infracture Service Ltd. (Unit-3),610561267,6065069101,9.93,586327094,8847932285,15.09,Acron lnfracture Service Ltd.(Unit-3)
+107,IPP,HF 113 MW Power Limited,F.Oil,113,551.0603,0.56,HF 113 MW Power Limited,HF 113 MW Power Limited,HF Power Company Limited,551060311,5951666116,10.8,577999758,8906890033,15.41,
+10,Public,Gazipur 100 MW PP,F.Oil,105,370.9008,0.41,,,RPCL - Gazipur (105MW),372311616,4561729240,12.25,535752588,8934646402,16.68,RPCL-Gazipur (105MW)
+46,IPP,Lobonchora Orion Power Rupsha Ltd. 105 MW,F.Oil,105,361.1674,0.004,,,Orion Power Rupsha Ltd. - Khulna (105MW),361167408,4586519321,12.7,540193296,9038681251,16.73,Orion Power Rupsha Ltd.- Khulna (105MW)
+39,IPP,Sembcorp NWPGCL,GAS,414,2945.2366,0.81,,,Sembcorp NWPC Ltd. - Sirajgonj (282MW),2945236563,9029761730,3.07,2817383745,9132705810,3.24,Sembcorp NWPC Ltd.- Sirajgonj (282MW)
+11,Public,Kodda 150 MW PP,F.Oil,149,387.4975,0.308,Kodda 150 MW PP,Kodda 150 MW PP,BPDB RPCL PowerGen Ltd.,387788703,5857190239,15.1,480557237,9535028277,19.84,
+49,IPP,Baraka Shikalbaha 105MW PS,F.Oil,105,160.1848,0.17,,,Baraka Shikalbaha Power Ltd. (105MW),159651421,2774600010,17.38,610898228,9816459440,16.07,Baraka Shikalbaha Power Ltd.(105MW)
+50,IPP,Confidence Power  Ltd. 113MW Rangpur,F.Oil,113,494.4,0.5,,,Confidence Power Ltd. - Rangpur,494399990,5671576724,11.47,623970029,10001094642,16.03,Confidence Power Ltd.- Rangpur(113MW)
+52,IPP,Bogura 113 MW PP (Confidence) Unit-1,F.Oil,113,468.1931,0.47,,,Confidence Power Ltd. (Unit-1),468193056,5469183763,11.68,613355712,10097178928,16.46,Confidence Power Ltd.(Unit-1)- Bogra
+104,IPP,Karnaphuli Power Ltd.,F.Oil,110,87.2665,0.09,Karnaphuli Power Ltd.,Karnaphuli Power Ltd.,Karnaphuli Power Ltd.,85058900,2177111311,25.6,693947514,10738505984,15.47,
+98,IPP,United Jamalpur PPL,F.Oil,115,538.4717,0.53,United Jamalpur PPL,United Jamalpur PPL,United Jamalpur 200MW,538471740,6669811635,12.39,627954216,10830596553,17.25,
+48,IPP,Confidence CPBL- 2 Bogura,F.Oil,113,447.8107,0.45,,,Confidence Power Ltd. (Unit-2) - Bogra,447810720,5606954875,12.52,655152288,10851170802,16.56,Confidence Power Ltd.(Unit-2)- Bogra
+43,Public,Khulna 225 MW (NWPGCL),HSD,230,279.0524,0.144,Khulna 225 MW (NWPGCL),Khulna 225 MW (NWPGCL),North West Power Gen (NWPGCL)- Khulna,279080308,7770389923,27.84,437277714,11138939273,25.47,
+111,IPP,Anlima Chattogram 116 MW,F.Oil,116,125.1359,0.12,Anlima Chattogram 116 MW,Anlima Chattogram 116 MW,Anlima Energy Limited (116MW),123670544,1768065136,14.3,755550326,11468258410,15.18,
+95,IPP,Desh Energy Chandpur  200 MW,F.Oil,200,535.4999,0.31,Desh Energy Chandpur  200 MW,Desh Energy Chandpur  200 MW,Desh Energy Chandpur Power Company Ltd.,535499933,7266737367,13.57,752048193,12934344889,17.2,
+97,IPP,Ashugonj 150 MW (Midland East),F.Oil,150,410.3474,0.31,Ashugonj 150 MW (Midland East),Ashugonj 150 MW (Midland East),Midland East Power Company Ltd.,410347432,5106156835,12.44,858896611,13304285799,15.49,
+45,IPP,Kodda Gazipur 149MW Power Ltd. (unit-1 Summit) ACE Alliance,F.Oil,149,791.75,0.61,,,ACE Alliance Power Ltd. (149MW) (Summit Gazipur),791750046,8370704611,10.57,809133408,13339615719,16.49,ACE Alliance Power Ltd.(149MW)(Summit Gazipur)
+74,IMPORT,Sembcorp Energy India Ltd.,Import,200,1781.223,,,,Sembcrop Energy India Ltd. 250MW,1784173570,11905260924,,1906341720,13839173137,-,Sembcrop Energy India Ltd.2SOMW
+73,IMPORT,Power Import (Bheramara-Bharampur Phase-2),Import,300,2539.05,,,,NVVN Ltd. - India 300 MW,2539050000,14200174815,,2548677500,15199300879,,NWN Ltd.- India 300 MW
+109,IPP,Manikganj 162MW P0wer Generation,F.Oil,162,373.1234,0.26,Manikganj 162MW P0wer Generation,Manikganj 162MW P0wer Generation,Manikgonj Power Generations Limited (162MW),344555626,4667375064,13.55,1041083049,16458006350,15.81,
+38,IPP,United Power Co. Ltd.200 MW Exp,GAS,195,145.6385,0.09,,,United Mymensingh Power Ltd. (200MW),1019821200,11669327634,11.44,1052002800,17447304343,16.58,United Mymensingh Power Ltd.(200MW)
+44,IPP,United Mymensing Power(UMPL) 200MW Generation,F.Oil,200,1019.8212,0.58,,,United Mymensingh Power Ltd. (200MW),1019821200,11669327634,11.44,1052002800,17447304343,16.58,United Mymensingh Power Ltd.(200MW)
+43,IPP,Kodda Gazipur 300MW Power Ltd.(unit-2 Summit),F.Oil,300,1280.2528,0.49,,,Summit Gazipur II Power Ltd. - Kodda (300MW),1280252848,13968072079,10.91,1421077329,24417833567,17.18,Summit Gazipur II Power Ltd.- Kodda (300MW)
+101,IPP,United Anwara 300MW PS,F.Oil,300,1195.9981,0.46,United Anwara 300MW PS,United Anwara 300MW PS,United - Anawara (300MW),1195998078,13588011751,11.36,1677406561,27943395632,16.66,
+35,Joint venture,"Payra, Potuakhali 2*660 MW PP (U-1)",COAL,622,2049.4159,0.397,,,Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,3811921991,32764848584,8.6,3998490350,55395607066,13.85,Bangladsh -ChinaPower Company (Pvt.ILtd.1320MW
+36,Joint venture,"Payra, Potuakhali 2*660 MW PP (U-2)",,622,1762.5061,0.339,,,Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,3811921991,32764848584,8.6,3998490350,55395607066,13.85,Bangladsh -ChinaPower Company (Pvt.ILtd.1320MW
+130,RENTAL & SIPP,Ghorashal 78 MW QRPP (3 Yrs Max Power),GAS,,102.4493,0.35,Ghorashal 78 MW QRPP (3 Yrs Max Power),Ghorashal 78 MW QRPP (3 Yrs Max Power),MAX POWER LTD.-GHORASAL,102449279,811772815,7.92,,-,-,
+137,RENTAL & SIPP,Fenchugonj 51 MW Rental (15 Yrs) (Barakatullah),GAS,51,353.0717,0.79,Fenchugonj 51 MW Rental (15 Yrs) (Barakatullah),Fenchugonj 51 MW Rental (15 Yrs) (Barakatullah),BARKATULLAH ELECTRO DYNAMICS LTD.,353071710,1101899564,3.12,,-,,
+54,Public,Santahar 50 MW PP,F.Oil,50,42.8089,0.1,Santahar 50 MW PP,Santahar 50 MW PP,Shantahar 50MW Power Plant,42808887,923423783,21.57,68351477,"1,337,679,(IJO",19.57,
+53,Public,Bera 70 MW Peaking RE,F.Oil,71,31.2907,0.052,Bera 70 MW Peaking RE,Bera 70 MW Peaking RE,Bera Peacking Power Plant,31290740,1024671785,32.75,148245,"1,isa463))4",2259,
+18,Public,"Shahjibazar 70 MW GT, Habiganj",Gas,70,361.4274,0.628,,,Shahjibazar Power Station,361427444,1315252227,3.64,416665550,"1)67,400,786",3.04,ShahjibazarPowerStation
+20,Public,Fenchuganj C.C. (Unit #1),Gas,97,396.7305,0.662,,,Fenchuganj 2x 90 MW CCPP (1st & 2nd Unit),637015112,2302166239,3.61,"5 ,062,078","1/Ri,,677,007",3.12,Fenchuganj 2x90 MWCcpp(1st& 2nd Unit)
+21,Public,Fenchuganj C.C. (Unit #2),Gas,104,240.2846,0.34,,,Fenchuganj 2x 90 MW CCPP (1st & 2nd Unit),637015112,2302166239,3.61,"5 ,062,078","1/Ri,,677,007",3.12,Fenchuganj 2x90 MWCcpp(1st& 2nd Unit)
+14,Public,Karnafuli Hydro,Hydro,230,654.9908,0.326,Karnafuli Hydro,Karnafuli Hydro,Karnafuli Hydro Power Station,654990772,1964677501,3,743538106,"2,00l\941,837",2.7,
+19,Public,"Sangu, Dohazari-kaliaish 100 MW PPP",F.Oil,102,203.2578,0.234,"Sangu, Dohazari-kaliaish 100 MW PPP","Sangu, Dohazari-kaliaish 100 MW PPP",Dohazari Peacking Power Plant,203257800,2723891885,13.4,"131/392,360","2,614812,)17",19Jl4,
+11,Public,Rauzan 210 MW /ST (1st),Gas,210,403.4491,0.297,,,"Chittagong Power Station, Rawzan",403449100,2099326841,5.2,500551576,"2,70&419,i1))",423,"Chittagong PowerStation, Rawzan"
+12,Public,Rauzan 210 MW /ST (2nd),Gas,210,0,,,,"Chittagong Power Station, Rawzan",403449100,2099326841,5.2,500551576,"2,70&419,i1))",423,"Chittagong PowerStation, Rawzan"
+22,Public,Bibiana III 400 MW CCPP,Gas,400,1839.712,0.549,,,Bibiyana-3 400MW,1839712000,3754277784,2.04,2139346500,"2,840,470,9'!4",133,Bibiyana-3400MW
+39,Public,Sylhet 225 MW CCPP,Gas,231,1075.5239,0.548,Sylhet 225 MW CCPP,Sylhet 225 MW CCPP,Sylhet 225 MW Peaking Power Plant,1075523895,3169637650,2.95,"1).94,125,009","2,884828,271",213,
+27,Public,Baghabari 50 MW Peaking RE,F.Oil,52,85.4892,0.191,,,Baghabari 50 Peaking Power Plant,85489209,1241686821,14.52,106132634,"2,Q,¾545,547",1926,Baghabari SO Peaking Power Plant
+33,Public,Saidpur 20 MW /GT,HSD,20,2.0647,0.013,,,Sayedpur Gas Turbine Power Station,2064740,197112122,95.47,1171640,"21{378,(IJ5",182.97,Sayedpur GasTurbine Power Station
+38,Public,Sylhet 1x20 MW /GT,Gas,20,111.0293,0.637,Sylhet 1x20 MW /GT,Sylhet 1x20 MW /GT,Kumergoan Gt Power Sylhet,111029330,419366446,3.78,65637000,"234431,3)0",3.6,
+24,Public,Bheramara GT unit-3,HSD,20,-0.1532,0,,,Bheramara Power Station,-153245,215299420,,-113167,"261,169)91",,Bheramara PowerStation
+0,Public, Ghorasal Repowered CCPP Unit-3,Gas,260,47.1487,0.023,,,Ghorashal Power Station 630MW,1319311198,4128006661,3.13,4491600,"3,06).796,623",68129,Ghorashal Power Station (Unit 3)
+1,Public, Ghorasal Repowered CCPP Unit-4,Gas,210,280.5226,0.197,,,Ghorashal Power Station 630MW,1319311198,4128006661,3.13,4491600,"3,06).796,623",68129,Ghorashal Power Station (Unit 3)
+2,Public, Ghorasal TPP Unit-5,Gas,210,963.6894,0.62,,,Ghorashal Power Station 630MW,1319311198,4128006661,3.13,4491600,"3,06).796,623",68129,Ghorashal Power Station (Unit 3)
+3,Public, Ghorasal TPP Unit-6,Gas,0,-2.206,,,,Ghorashal Power Station 630MW,1319311198,4128006661,3.13,4491600,"3,06).796,623",68129,Ghorashal Power Station (Unit 3)
+4,Public,Ghorasal 365 MW CCPP Unit-7,Gas,365,1315.1245,0.434,,,Ghorashal Power Station 365MW,1315124459,4406810035,3.35,4491600,"3,06).796,623",68129,Ghorashal Power Station (Unit 3)
+42,Public,Bibiyana - South  383 MW CCPP,Gas,383,1351.3021,0.406,Bibiyana - South  383 MW CCPP,Bibiyana - South  383 MW CCPP,Bibiyana - South,1351302135,2630938263,1.95,2522746430,"4,67 58,i'JS",JBS,
+19,Public,Shahjibazar 330 MW CCPP,Gas,330,1505.2982,0.546,,,Shahjibazar 330 CCPP,1505298191,4270031976,2.84,1079194056,"5,221(l92,173",4B4,Shahjibazar330 CCPP
+28,Public,"Chapainobabgonj Peaking Power Station 100 MW, Amnura",F.Oil,104,259.43144,0.291,,,Chapainobabgonj Peaking Pp 100 MW Amnura,259431440,3242149031,12.5,251354160,"5,7Bal44,4&4",23.03,Chapainobabgonj Peaking PP100 MWAmnura
+30,Public,"Barapukuria Coal based S/T (unit 1,2)",COAL,250,86.4905,0.078,,,Barapukuria Power Station 1,86490537,971847293,11.24,1094796315,"8,894769,673",8.13,Barapukuria PowerStation
+32,Public,Barapukuria Coal based S/T (unit 3),COAL,274,1098.3259,0.518,,,Barapukuria Power Station 2,1098325916,9681794240,8.82,1094796315,"8,894769,673",8.13,Barapukuria PowerStation
+47,Public,Gopalganj 100 MW Peaking PP,F.Oil,109,4.1326,0.007,Gopalganj 100 MW Peaking PP,Gopalganj 100 MW Peaking PP,Gopalgonj Peaking Power Plant,4132618,904161859,218.79,"18,612/322","95&418,759",51.49,
+29,Public,"Barapukuria Coal based S/T (unit 1,2)",COAL,250,86.4905,0.078,,,Barapukuria Power Station 1,86490537,971847293,11.24,"248,793/327","J,42Q149,816",13.75,Barapukuria PowerStation
+31,Public,Barapukuria Coal based S/T (unit 3),COAL,274,1098.3259,0.518,,,Barapukuria Power Station 2,1098325916,9681794240,8.82,"248,793/327","J,42Q149,816",13.75,Barapukuria PowerStation
+14,Public,Shikalbaha 225 MW PS,Gas,225,1014.6721,0.536,,,Shikalbaha 225 MW Shamipur (Dual Fuel),1015075276,3028903928,2.98,371948514,"l,17Q011,848",852,Shikalbaha 225 MWShamipur (Dual Fuel)
+25,Public,Bhola 225 MW CCPP,Gas,194,315.2895,0.201,,,Bhola 225 MW CCPP,315289459,2046831372,6.49,633957607,"l,411)38,(IJ4",538,Bhola 225MWCCPP
+55,Public,Katakhali 50 MW PP,F.Oil,50,51.4384,0.12,Katakhali 50 MW PP,Katakhali 50 MW PP,Katakhali 50MW Power Plant,51438387,981043441,19.07,67786253,"l,l1Q986,927",1934,
+5,Public,Tongi 80 MW GTPP,Gas,105,-0.2004,,Tongi 80 MW GTPP,Tongi 80 MW GTPP,Tongi Power Station,-200350,232039734,,-74765,"l')(l026,ll6",,
+34,Public,Rangpur 20 MW /GT,HSD,20,1.4037,0.009,,,Rangpur Gas Turbine Power Station,1403713,211487881,150.66,"2,082/340","lll,280,611",113.92,Rangpur Gas Turbine PowerStation
+18,Public,Hathazari 100 MW Peaking PP,F.Oil,98,-0.8567,0.001,Hathazari 100 MW Peaking PP,Hathazari 100 MW Peaking PP,Hathazari Peacking Power Plant,-856680,357032315,,28044085,"m,l74 '116",31.67,
+23,Public,Shahazibazar 100 MW GT,Gas,100,39.4552,0.052,,,Shahjibazar 100 P/S,39455245,74678391,1.89,"59,677/356",W95))4,8.98,Shahjibazar100 P/S
+5,Public,Haripur GTPP,Gas,32,-0.4225,,,,Sbu Haripur (BPDB Book Costs),-422461,90047286,,"(347,975)","241,227,585",-693.232516703786,SBU HARIPUR
+17,Public,Titas 50 MW Peaking PP,F.Oil,52,45.1598,0.104,,,Titas 50 MW Peacking Power Plant,45159828,767554040,17,"102,724,595","1,909,193,576",18.5855546668254,Daudkandi Peacking Power Plant
+42,IPP,CLC Power Co. Ltd. 108 MW Bosila Keranigonj,F.Oil,108,0,0,,,CLC Power Company Ltd.,,,,,,,
+56,IPP,APR Energy 300MW,HSD,300,71.9614,0.03,,,APR Energy 300MW,72053121,6405636446,88.9,"259,472,196","10,835,439,637",41.7595403439681,APR Energy 300MW
+63,RENTAL & SIPP,Bogura 20 RPP (3 Yrs) Energy Prima,GAS,20,30.3411,0.17,,,"ENERGYPRIMA, BOGRA",27878796,96666127,3.47,,,,
+69,RENTAL & SIPP,"IEL, Meghnaghat 100 MW",F.oil,100,270.9907,0.31,,,IELCONSOURTIUM & ASSOCIATES,270990720,3813956693,14.07,,,,

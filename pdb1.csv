@@ -1,0 +1,160 @@
+,own,plant_name,fuel_type,capacity_mw,net_generation_gwh,usage
+1,Public, Ghorasal Repowered CCPP Unit-3,Gas,260.0,47.1487,0.023
+2,Public, Ghorasal Repowered CCPP Unit-4,Gas,210.0,280.5226,0.197
+3,Public, Ghorasal TPP Unit-5,Gas,210.0,963.6894,0.62
+4,Public, Ghorasal TPP Unit-6,Gas,0.0,-2.206,
+5,Public,Ghorasal 365 MW CCPP Unit-7,Gas,365.0,1315.1245,0.434
+6,Public,Tongi 80 MW GTPP,Gas,105.0,-0.2004,
+7,Public,Haripur GTPP,Gas,32.0,-0.4225,
+8,Public,210 MW Shiddirganj TPP,Gas,210.0,-1.287,
+9,Public,Siddhirganj 2x120 MW GTPP,Gas,210.0,563.9633,0.318
+10,Public,Haripur 412 MW CCPP,Gas,412.0,1817.5804,0.527
+11,Public,Gazipur 52 MW PP,F.Oil,52.0,112.6812,0.255
+12,Public,Kodda 150 MW PP,F.Oil,149.0,387.4975,0.308
+13,Public,Siddhirganj 335 MW CCPP,Gas,335.0,1042.3959,0.373
+14,Public,Gazipur 100 MW PP,F.Oil,105.0,370.9008,0.41
+16,Public,Karnafuli Hydro,Hydro,230.0,654.9908,0.326
+17,Public,Rauzan 210 MW /ST (1st),Gas,210.0,403.4491,0.297
+18,Public,Rauzan 210 MW /ST (2nd),Gas,210.0,0.0,
+19,Public,Shikalbaha 150 MW Peaking PP,Gas,,641.9223,0.505
+21,Public,Hathazari 100 MW Peaking PP,F.Oil,98.0,-0.8567,0.001
+22,Public,"Sangu, Dohazari-kaliaish 100 MW PPP",F.Oil,102.0,203.2578,0.234
+23,Public,RPCL Raozan 25 MW,F.Oil,25.0,68.4048,0.321
+24,Public,Shikalbaha 225 MW PS,Gas,225.0,1014.6721,0.536
+26,Public,Sonagazi 1 MW Wind PP,Wind,0.0,0.023,
+27,Public,Kutubdia 900KW Wind PP,Wind,0.0,0.6083,
+28,Public,Kaptai Solar,Solar,7.0,9.7123,0.159
+30,Public, Ashuganj TPP Unit-3,Gas,150.0,222.9391,0.209
+31,Public, Ashuganj TPP Unit-4,Gas,150.0,279.6746,0.261
+32,Public, Ashuganj TPP Unit-5,Gas,150.0,215.2755,0.202
+33,Public,Ashuganj 50 MW PP,Gas,53.0,184.7955,0.483
+34,Public,Ashuganj 225 MW CCPP,Gas,221.0,1574.3307,0.828
+35,Public,Ashuganj 450 MW CCPP (South),Gas,360.0,1955.573,0.646
+36,Public,Ashuganj 450 MW CCPP (North),Gas,360.0,2088.9237,0.694
+37,Public,Chandpur 150 MW CCPP,Gas,163.0,596.5169,0.441
+38,Public,Titas 50 MW Peaking PP,F.Oil,52.0,45.1598,0.104
+40,Public,"Shahjibazar 70 MW GT, Habiganj",Gas,70.0,361.4274,0.628
+41,Public,Shahjibazar 330 MW CCPP,Gas,330.0,1505.2982,0.546
+42,Public,Fenchuganj C.C. (Unit #1),Gas,97.0,396.7305,0.662
+43,Public,Fenchuganj C.C. (Unit #2),Gas,104.0,240.2846,0.34
+44,Public,Sylhet 1x20 MW /GT,Gas,20.0,111.0293,0.637
+45,Public,Sylhet 225 MW CCPP,Gas,231.0,1075.5239,0.548
+46,Public,Bibiana III 400 MW CCPP,Gas,400.0,1839.712,0.549
+47,Public,Shahazibazar 100 MW GT,Gas,100.0,39.4552,0.052
+48,Public,Bibiyana - South  383 MW CCPP,Gas,383.0,1351.3021,0.406
+50,Public,Khulna 225 MW (NWPGCL),HSD,230.0,279.0524,0.144
+51,Public,Bheramara GT unit-3,HSD,20.0,-0.1532,0.0
+52,Public,Bheramara 360 MW CCPP (NWPGCL),Gas,410.0,2706.8683,0.789
+53,Public,Faridpur 50 MW Peaking PP,F.Oil,54.0,15.5429,0.037
+54,Public,Gopalganj 100 MW Peaking PP,F.Oil,109.0,4.1326,0.007
+55,Public,Modhumoti 105 MW NWPGCL,F.Oil,105.0,12.4258,0.015
+57,Public,Bhola 225 MW CCPP,Gas,194.0,315.2895,0.201
+59,Public,"Baghabari 71 MW /GT
+Baghabari 100 MW /GT",Gas,71.0,57.6144,0.18
+61,Public,Sirajgonj 210 MW CC (NWPGCL) Unit-1,Gas,210.0,216.5913,0.122
+63,Public,Baghabari 50 MW Peaking RE,F.Oil,52.0,85.4892,0.191
+64,Public,Bera 70 MW Peaking RE,F.Oil,71.0,31.2907,0.052
+65,Public,Santahar 50 MW PP,F.Oil,50.0,42.8089,0.1
+66,Public,Katakhali 50 MW PP,F.Oil,50.0,51.4384,0.12
+67,Public,"Chapainobabgonj Peaking Power Station 100 MW, Amnura",F.Oil,104.0,259.43144,0.291
+68,Public,Sirajgonj 210 MW CC (NWPGCL) Unit-2,Gas,220.0,1135.6566,0.616
+70,Public,Sirajgonj 210 MW CC (NWPGCL) Unit-3,Gas,220.0,1447.0055,0.781
+72,Public,Sirajgonj 2 MW Wind Plant,Wind,,0.0301,
+73,Public,Sirajgonj 7.6 MW Solar Power Plant,Solar,6.0,3.9538,
+75,Public,"Barapukuria Coal based S/T (unit 1,2)",COAL,250.0,86.4905,0.078
+76,Public,Barapukuria Coal based S/T (unit 3),COAL,274.0,1098.3259,0.518
+77,Public,Saidpur 20 MW /GT,HSD,20.0,2.0647,0.013
+78,Public,Rangpur 20 MW /GT,HSD,20.0,1.4037,0.009
+80,Joint venture,"Payra, Potuakhali 2*660 MW PP (U-1)",COAL,622.0,2049.4159,0.397
+81,Joint venture,"Payra, Potuakhali 2*660 MW PP (U-2)",,622.0,1762.5061,0.339
+83,IPP,Midland Power Co. Ashuganj 51 MW,GAS,51.0,294.124,0.66
+84,IPP,Rural Power Company Ltd.(RPCL),GAS,210.0,1150.0912,0.63
+85,IPP,Haripur Power Ltd.,GAS,360.0,2315.379,0.73
+86,IPP,Meghnaghat Power Ltd.,GAS,450.0,2275.4899,0.58
+87,IPP,Regent Energy & Power Ltd 108 MW,GAS,108.0,591.4501,0.63
+88,IPP,United Power Co. Ltd.200 MW Exp,GAS,195.0,145.6385,0.09
+89,IPP,Summit Bibiyana - II Power Co Ltd. 341 MW,GAS,341.0,2455.8871,0.82
+90,IPP,Kushiara power Co. Ltd (163MW)CCPP Fenchuganj,GAS,163.0,1065.5715,0.75
+91,IPP,Sembcorp NWPGCL,GAS,414.0,2945.2366,0.81
+92,IPP,Summit Meghnaghat Power Co.Ltd.,GAS,305.0,1559.0939,0.58
+93,IPP,Nutan Biddyut 220MW Bhola,GAS,220.0,266.9117,0.14
+94,IPP,Raj Lanka Power Gen.Com. Ltd.Nator 55 MW,F.Oil,52.0,146.3081,0.32
+95,IPP,Digital  Power & Associates Gagnagar,F.Oil,102.0,325.564,0.36
+96,IPP,Baraka Patenga,F.Oil,50.0,198.9216,0.45
+97,IPP,ECPV Chattogram Limited 108 MW,F.Oil,108.0,190.2545,0.2
+98,IPP,Lakdhanvi lanka- Bangla Jangalia Cumilla 52MW,F.Oil,52.0,158.5054,0.35
+99,IPP,Sinha Peoples Energy Ltd.Katpatti 52.5 MW Exp,F.Oil,51.0,21.3606,0.05
+100,IPP,Summit   Barishal (110 MW),F.Oil,110.0,218.6086,0.23
+101,IPP,Summit Narayangonj Power unit-2 Madangonj (55 MW),F.Oil,55.0,259.5017,0.54
+102,IPP,Dhaka(Doreen) Northern Power Ltd.Manikgonj,F.Oil,55.0,231.8441,0.48
+103,IPP,Dhaka(Doreen) Southern Power Ltd.Nobabgonj,F.Oil,55.0,237.8964,0.49
+104,IPP,Powerpac Mutiara Jamalpur Power plant Ltd,F.Oil,95.0,289.7374,0.35
+105,IPP,CLC Power Co. Ltd. 108 MW Bosila Keranigonj,F.Oil,108.0,0.0,0.0
+106,IPP,Kamalaghat Banco Energy Generation,F.Oil,54.0,309.349,0.65
+107,IPP,Kodda Gazipur 300MW Power Ltd.(unit-2 Summit),F.Oil,300.0,1280.2528,0.49
+108,IPP,United Mymensing Power(UMPL) 200MW Generation,F.Oil,200.0,1019.8212,0.58
+109,IPP,Kodda Gazipur 149MW Power Ltd. (unit-1 Summit) ACE Alliance,F.Oil,149.0,791.75,0.61
+110,IPP,Lobonchora Orion Power Rupsha Ltd. 105 MW,F.Oil,105.0,361.1674,0.004
+111,IPP,Desh Energy Chandpur  200 MW,F.Oil,200.0,535.4999,0.31
+112,IPP,Juldha Acorn 100 MW Unit-3,F.Oil,100.0,610.5613,0.7
+113,IPP,Ashugonj 150 MW (Midland East),F.Oil,150.0,410.3474,0.31
+114,IPP,United Jamalpur PPL,F.Oil,115.0,538.4717,0.53
+115,IPP,Confidence CPBL- 2 Bogura,F.Oil,113.0,447.8107,0.45
+116,IPP,Baraka Shikalbaha 105MW PS,F.Oil,105.0,160.1848,0.17
+117,IPP,United Anwara 300MW PS,F.Oil,300.0,1195.9981,0.46
+118,IPP,Confidence Power  Ltd. 113MW Rangpur,F.Oil,113.0,494.4,0.5
+119,IPP,Jodiac Power,F.Oil,54.0,276.7625,0.59
+120,IPP,Karnaphuli Power Ltd.,F.Oil,110.0,87.2665,0.09
+121,IPP,Feni Lanka Power 114 MW PP,F.Oil,114.0,193.2808,0.19
+122,IPP,Bogura 113 MW PP (Confidence) Unit-1,F.Oil,113.0,468.1931,0.47
+123,IPP,HF 113 MW Power Limited,F.Oil,113.0,551.0603,0.56
+124,IPP,Julda 100 MW Unit - 2 (Acorn ),F.Oil,100.0,687.7112,0.79
+125,IPP,Manikganj 162MW P0wer Generation,F.Oil,162.0,373.1234,0.26
+126,IPP,Orion Power Sonargaon Ltd.,F.Oil,104.0,451.8127,0.5
+127,IPP,Anlima Chattogram 116 MW,F.Oil,116.0,125.1359,0.12
+128,IPP,Tangail Polly Power 22 MW TPPGCl,F.Oil,22.0,74.9804,0.39
+129,IPP,Bhairab Power 54.5 MW,F.Oil,54.0,70.3824,0.15
+130,IPP,United Payra PP Patuakhali Imp,F.Oil,150.0,33.4596,0.03
+131,IPP,APR Energy 300MW,HSD,300.0,71.9614,0.03
+132,IPP,Daudkandi 200MW(Bangla Trac),HSD,200.0,40.5404,0.02
+133,IPP,Noapara100MW (Bangla Trac),HSD,100.0,122.2197,0.14
+134,IPP,"Aggreko, Aourahati 100MW",HSD,100.0,37.1663,0.04
+135,IPP,"Aggreko, Brahmangaon 100MW",HSD,100.0,28.8673,0.03
+136,IPP,Paramount Baghabari BanglaTrack,HSD,200.0,22.1198,0.01
+137,IPP,Sharishabari 3 MW Engreen Solar Power Plant,Solar,3.0,3.9442,0.15
+138,IPP,20 MW Solar Teknaf,Solar,20.0,33.4382,0.19
+139,IPP,Sympa Solar Power 8 MW,Solar,8.0,11.269,0.16
+140,IPP,50 MW HDFC Solar Power Plant,Solar,50.0,64.8588,0.15
+141,IPP,Manikganj 35MW Spectra Solar Park Ltd.,Solar,35.0,29.1477,0.1
+142,IPP,Sailo Solar Power Plant Shantahar,Solar,,0.1646,
+143,IPP,Shailla 400 KW Solar,Solar,,1.0031,
+145,RENTAL & SIPP,Bogura RPP (24MW) 15 yrs,GAS,22.0,167.4902,0.87
+146,RENTAL & SIPP,Bogura 20 RPP (3 Yrs) Energy Prima,GAS,20.0,30.3411,0.17
+147,RENTAL & SIPP,Ghorashal 78 MW QRPP (3 Yrs Max Power),GAS,,102.4493,0.35
+148,RENTAL & SIPP,Tangail SIPP (22 MW) (Doreen Power Ltd.),GAS,22.0,141.1988,0.73
+149,RENTAL & SIPP,Feni SIPP (22 MW) (Doreen Power Ltd.),GAS,22.0,160.0048,0.83
+150,RENTAL & SIPP,Jangalia 33 MW (Summit Purbanchol Po. Co. Ltd.),GAS,33.0,258.2576,0.89
+151,RENTAL & SIPP,Ashugonj  55 MW 3Yrs Rental (Precision Energy),GAS,55.0,208.8067,0.43
+152,RENTAL & SIPP,Sahzibazar 86 MW RPP (15 yrs),GAS,86.0,605.4847,0.8
+153,RENTAL & SIPP,Kumargao 10 MW Desh Combridge (15 Yrs),GAS,10.0,61.4628,0.7
+154,RENTAL & SIPP,Fenchugonj 51 MW Rental (15 Yrs) (Barakatullah),GAS,51.0,353.0717,0.79
+155,RENTAL & SIPP,Fenchugonj 50 MW Rental (Energy Prima),GAS,,219.7947,0.86
+156,RENTAL & SIPP,Barabkundu SIPP 22 MW (Regent Power),GAS,22.0,157.7652,0.82
+157,RENTAL & SIPP,"Malancha, EPZ, Ctg",GAS,,202.7794,0.0
+158,RENTAL & SIPP,Bhola 32 MW (Venture Energy Resources Ltd.),GAS,33.0,199.538,0.69
+159,RENTAL & SIPP,Shahjahanullah Power Gen Co. Ltd.,GAS,,102.6552,0.47
+160,RENTAL & SIPP,Aggreko 95 MW Bhola,GAS,95.0,511.5654,0.61
+161,RENTAL & SIPP,KPCL( 115 MW) U-2,F.oil,115.0,433.6464,0.43
+162,RENTAL & SIPP,Khanjahan Ali Noapara  40 MW,F.oil,,92.2828,0.29
+163,RENTAL & SIPP,Summit  Power Co. Ltd Madangonj (100 MW),F.oil,102.0,353.3363,0.4
+164,RENTAL & SIPP,"IEL, Meghnaghat 100 MW",F.oil,100.0,270.9907,0.31
+165,RENTAL & SIPP,Shiddirganj  Dutchbangla 100 MW,F.oil,100.0,366.3626,0.42
+166,RENTAL & SIPP,Amnura 50MW Sinha Power,F.oil,50.0,34.312,0.08
+167,RENTAL & SIPP,"Power Pac Mutiara,Keranigonj,100MW",F.oil,100.0,217.866,0.25
+168,RENTAL & SIPP,Julda Acorn Infra.service Ltd.100MW,F.oil,100.0,189.9422,0.22
+169,RENTAL & SIPP,Katakhali (Northern) Peaking,F.oil,50.0,21.6708,0.05
+171,IMPORT,Power Import (Bheramara-Bharampur Phase-1),Import,500.0,1730.726,
+172,IMPORT,Import from Tripura (1st Phase),Import,100.0,1028.818,
+173,IMPORT,Import from Tripura (2nd  Phase),Import,60.0,1023.5395,
+174,IMPORT,Power Import (Bheramara-Bharampur Phase-2),Import,300.0,2539.05,
+175,IMPORT,Sembcorp Energy India Ltd.,Import,200.0,1781.223,
