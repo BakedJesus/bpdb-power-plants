@@ -1,0 +1,224 @@
+plant,start,fuel_type,own,capacity,end
+Shikalbaha 150 MW Power Plant,"18 August, 2010",Gas,BPDB,150.0,
+Siddhirganj 2x120 MW GTPP,"14 October, 2010",Gas,EGCB,105.0,
+Ashuganj Rental Power Plant,"7 April, 2010",Gas,Rental (BPDB),55.0,
+Shikalbaha 55 MW Rental Power Plant,"6 May, 2010",HFO,Rental (BPDB),55.0,
+"Thakurgaon, 3 Years Rental PP","2 August, 2010",HFO,Rental (BPDB),50.0,
+Ghorashal quick rental PP,"23 August, 2010",Gas,Rental (BPDB),145.0,
+Khulna quick rental PP,"10 August, 2010",Diesel,Rental (BPDB),55.0,
+"Pagla, Narayaganj quick rental PP","24 November, 2010",Diesel,Rental (BPDB),50.0,
+Bheramara 3 Years Rental PP,"31 December, 2010",Diesel,Rental (BPDB),110.0,
+Ashuganj 50 MW Power Plant,"30 April, 2011",Gas,APSCL,53.0,
+Baghabari 50 MW Peaking PP,"29 August, 2011",HFO,BPDB,52.0,
+Gopalganj 100 MW Peaking PP,"29 September, 2011",HFO,BPDB,109.0,
+Fenchuganj 90 MW CCPP,"26 October, 2011",Gas,BPDB,104.0,
+Bera 70 MW Peaking PP,"28 October, 2011",HFO,BPDB,71.0,
+"Titas, Doudkandi 50 MW Peaking PP","29 October, 2011",HFO,BPDB,52.0,
+Faridpur 50 MW Peaking PP,"3 November, 2011",HFO,BPDB,54.0,
+Hathazari 100 MW Peaking PP,"23 December, 2011",HFO,BPDB,98.0,
+"Sangu, Dohazari 100 MW Peaking PP","30 December, 2011",HFO,BPDB,102.0,
+Siddhirganj 2x120 MW Peaking PP,"31 December, 2011",Gas,EGCB,105.0,
+Siddhirganj quick rental PP,"17 February, 2011",Diesel,Rental (BPDB),100.0,
+B Baria quick rental PP,"06 March, 2011",Gas,Rental (BPDB),70.0,
+Modanganj quick rental PP,"01 April, 2011",HFO,Rental (BPDB),102.0,
+Meghnaghat quick rental PP,"08 May, 2011",HFO,Rental (BPDB),100.0,
+Ghorashal quick rental PP,"27 May, 2011",Gas,Rental (BPDB),78.0,
+Noapara quick rental PP,"28 May, 2011",HFO,Rental (BPDB),40.0,
+Ashuganj quick rental PP,"31May, 2011",Gas,Rental (BPDB),80.0,
+Khulna quick rental PP,"01 June, 2011",HFO,Rental (BPDB),115.0,
+Ashuganj quick rental PP,"22 June, 2011",Gas,Rental (BPDB),53.0,
+Siddhirganj quick rental PP,"21 July, 2011",HFO,Rental (BPDB),100.0,
+"Noapara, Jashore (5 Years Rental) PP","26 August, 2011",HFO,Rental (BPDB),105.0,
+Bogura 3 Years quick rental PP,"13 November, 2011",Gas,Rental (BPDB),20.0,
+Chandpur 150 MW CC Power Plant,"3 March, 2012",Gas,BPDB,163.0,
+Sylhet 150 MW Power Plant,"28 March, 2012",Gas,BPDB,142.0,
+Gazipur 50 MW PP,"7 July, 2012",Gas/HFO,RPCL,52.0,
+Santahar 50 MW  Peaking Power Plant,"7 December, 2012",HFO,BPDB,50.0,
+Katakhali 50 MW Peaking Power Plant,"17 December, 2012",HFO,BPDB,50.0,
+Sirajganj 150 MW GTPP,"31 December, 2012",Gas/HSD,NWPGCL,150.0,
+"Amnura, Chapainawabganj Power Plant","13 January, 2012",HFO,Rental (BPDB),50.0,
+Fenchuganj 3 Years Rental Power Plant,"15 February, 2012",Gas,Rental (BPDB),44.0,
+"Julda, Chattogram Power Plant","26 March, 2012",HFO,Rental (BPDB),100.0,
+Keraniganj Power Plant,"27 March, 2012",HFO,Rental (BPDB),100.0,
+"Katakhali, Rajshahi Power Plant","23 May, 2012",HFO,Rental (BPDB),50.0,
+Raujan 25 MW PP,"3 May, 2013",Gas/HFO,RPCL,25.0,
+Khulna 150 MW GTPP,"23 September, 2013",Gas/HSD,NWPGCL,150.0,
+Haripur 360 MW CCPP,"December, 2013",Gas,EGCB,412.0,
+Shajanullah Power Company,"11 January, 2013",Gas,IPP,25.0,
+Regional Import,"5 October, 2013",Import,Import,500.0,
+Ashuganj 51 MW PP,"6 December, 2013",Gas,IPP,51.0,
+Sirajganj 150 MW PP Conversion,"14 July, 2014",Gas/HSD,NWPGCL,68.0,
+"Natore, Rajshahi 50 MW PP","24 January, 2014",HFO,IPP,52.0,
+Baraka-Patenga Chattogram 50 MW PP,"03 May, 2014",HFO,IPP,50.0,
+Meghnaghat 300-450 MW CCPP (2nd Unit Dual Fuel: SC GT Unit),"29 May, 2014",HFO/Gas,IPP,203.0,
+Gogonnagar 100 MW PP,"03 June, 2014",HFO,IPP,102.0,
+"Ghorashal, Narsindi 100 MW PP","15 July, 2014",Gas,IPP,108.0,
+Cumilla (Jangalia) 50 MW PP,"28 December, 2014",HFO,IPP,52.0,
+Ashuganj 225 MW CCPP : SC GT Unit,"27 April, 2015",Gas,APSCL,142.0,
+"Kodda, Gazipur 150 MW Power Plant","16 August, 2015",HFO/Gas,BPDB- RPCL JV,149.0,
+Bhola 225 MW CCPP,"2 September , 2015",Gas,BPDB,194.0,
+Ashuganj 225 CCPP: ST Unit,"10 December, 2015",Gas,APSCL,75.0,
+"Potiya, Chattogram 108 MW Power Plant","14 January, 2015",HFO,IPP,108.0,
+"Kathpotti, Munshigonj 50 MW Power Plant","20 February, 2015",HFO,IPP,51.0,
+Ashuganj 195 MW Modular PP,"8 May, 2015",Gas,IPP,195.0,
+Meghnaghat 335 MW CCPP (2nd Unit) : ST Unit,"1 June, 2015",Gas/HSD,IPP,102.0,
+Bibiyana-II 341 MW CCPP : GT Unit,"6 June, 2015",Gas,IPP,222.0,
+Bibiyana-II 341 MW CCPP : ST Unit,"26 December, 2015",Gas,IPP,119.0,
+Upgradation of Khulna 150 MW to 225 MW,"28 June, 2016",Gas/ HSD,NWPGCL,72.0,
+Ashuganj (South) 450 MW CCPP,"22 july, 2016",Gas,APSCL,373.0,
+Shahjibazar CCPP,"GT: 20 August, 2016
+ST: 20 December, 2016",Gas,BPDB,330.0,
+Madangonj 55 MW Peaking Plant,"29 February, 2016",FO,IPP,55.0,
+Barishal 110 MW PP,"5 April, 2016",FO,IPP,110.0,
+Nababganj 55 MW PP,"17 Jun, 2016",FO,IPP,55.0,
+Manikganj 55 MW PP,"17 August, 2016",FO,IPP,55.0,
+Jamalpur 95 MW PP,"29 November, 2016",Gas/ FO,IPP,95.0,
+Bheramara 360 MW CCPP,"GT: 9 May, 2017",Gas/HSD,NWPGCL,278.0,
+Ashuganj 450 MW CCPP (South),"11 June , 2017",Gas,APSCL,360.0,
+Chapainawabganj 100 MW PP,"12 August, 2017",HFO,BPDB,104.0,
+Shikalbaha 225 MW CCPP,"8 November, 2017",Gas/HSD,BPDB,225.0,
+Bheramara 360 MW CCPP (ST unit),"1 January, 2018",Gas/HSD,NWPGCL,132.0,
+Barapukuria 275 MW (3rd Unit),"1 January, 2018",Coal,BPDB,274.0,
+Ghorashal 365 MW CCPP,"05 February, 2018",Gas,BPDB,365.0,
+Sirajganj 225 MW CCPP (2nd  Unit),"05 February, 2018",Gas/HSD,NWPGCL,220.0,
+Siddhirganj 335 MW CCPP,"GT: 30 April, 2018",Gas,EGCB,217.0,
+Sirajganj 225 MW CCPP (3rd  Unit),"GT: 9 August, 2018",Gas/HSD,NWPGCL,141.0,
+Kamalaghat 50 MW PP,"1 January, 2018",HFO,IPP,54.0,
+Noapara 100 MW PP,"18 April, 2018",HSD,IPP,100.0,
+Kusiara 163 MW CCPP,"27 April, 2018",Gas,IPP,54.0,
+DaudKandi 200 MW PP,"27 April, 2018",HSD,IPP,200.0,
+"Kodda, Gazipur 300 MW PP","10 May, 2018",HFO,IPP,300.0,
+Kamalaghat 50 MW PP,"1 January, 2018",HFO,IPP,54.0,
+Noapara 100 MW PP,"18 April, 2018",HSD,IPP,100.0,
+Kusiara 163 MW CCPP,"27 April, 2018",Gas,IPP,54.0,
+DaudKandi 200 MW PP,"27 April, 2018",HSD,IPP,200.0,
+"Kodda, Gazipur 300 MW PP","10 May, 2018",HFO,IPP,300.0,
+"Bramhongaon, Keraniganj 100 MW PP","30 May, 2018",HSD,IPP,100.0,
+Mymensingh 200 MW PP,"16 June, 2018",HFO,IPP,200.0,
+"Aowrahati, Keranigonj 100 MW PP","29 June, 2018",HSD,IPP,100.0,
+Kadda 149 MW PP,"12 July, 2018",HFO,IPP,149.0,
+"Pangaon, keraniganj 300 MW PP","10 August, 2018",HSD,IPP,300.0,
+Power import (2nd HVDC),"10 September, 2018",Import,Import,500.0,
+"Teknaf, Coxsbazar 20 MW Solar Park","15 September, 2018",Solar,IPP,20.0,
+Sirajganj 400±10 MW CCPP,"GT: 04 October, 2018",GAS/HSD,IPP,282.0,
+"Rupsa, Khulna 105 MW PP","14 October, 2018",HFO,IPP,105.0,
+Chandpur 200 MW PP,"09 November, 2018",HFO,IPP,200.0,
+"Julda ,CTG 100 MW PP (Unit-3)","09 November, 2018",HFO,IPP,100.0,
+Ashuganj 150 MW PP,"27 November, 2018",HFO,IPP,150.0,
+Sirajgonj 225 MW CCPP (3rd Unit) (ST Unit),2019-01-20 00:00:00,Gas/HSD,NWPGCL,79.0,
+Bibiana #3 CCPP,"GT: 06 February, 2019
+ST: 24 September, 2019",Gas,BPDB,400.0,
+"Modumoti, Bagerhat 100 MW PP","15 April,2019",HFO,NWPGCL,105.0,
+Gazipur 100 MW PP,"25 May,2019",HFO,RPCL,105.0,
+Kaptai Solar Power Plant,"28 May, 2019",Solar,BPDB,7.0,
+Siddirganj 335 MW CCPP ST Unit,"ST: 9 September, 2019",Gas,EGCB,118.0,
+Baghabari 200 MW PP,"16 February, 2019",HSD,IPP,200.0,
+Jamalpur 115 MW Power Plant,"19 February, 2019",HFO,IPP,115.0,
+Bogura 113 MW PP (unit-2),"30 March, 2019",HFO,IPP,113.0,
+Sirajganj 400±10 MW CCPP,"ST: 09 April, 2018",IPP,GAS/HSD,132.0,
+Shikalbaha 105 MW PP,"24 May, 2019",HFO,IPP,105.0,
+Baghabari 200 MW PP,"16 February, 2019",HSD,IPP,200.0,
+Jamalpur 115 MW Power Plant,"19 February, 2019",HFO,IPP,115.0,
+Bogura 113 MW PP (unit-2),"30 March, 2019",HFO,IPP,113.0,
+Sirajganj 400±10 MW CCPP,"ST: 09 April, 2018",IPP,GAS/HSD,132.0,
+Shikalbaha 105 MW PP,"24 May, 2019",HFO,IPP,105.0,
+"Anowara, Chattogram 300 MW PP","22 June, 2019",HFO,IPP,300.0,
+"Majipara, Tetulia Solar plant","23 July, 2019",Solar,IPP,8.0,
+Rangpur 113 MW Power Plant,"12 August, 2019",HFO,IPP,113.0,
+Shikalbaha 110 MW PP,"20 August, 2019",HFO,IPP,110.0,
+"Shikalbaha, Chattogram 54 MW PP","31 August, 2019",HFO,IPP,54.0,
+Bogura 113 MW Power Plant (Unit-1),"17 November, 2019",HFO,IPP,113.0,
+Feni 114 MW Power Plant,"24 November, 2019",HFO,IPP,114.0,
+"Choumohoni, Noakhali 113 MW Power Plant","31 December, 2019",HFO,IPP,113.0,
+Sylhet 150 MW PP Conversion,"14 March, 2020",Gas,BPDB,87.0,
+"Payra, Potuakhali 1320 Coal Fired Power Plant (1st Unit)","15 May, 2020",Imported Coal,BCPCL (NWPGCL),622.0,
+"Julda, Chattogram 100 MW PP (Unit-2)","20 March, 2020",HFO,IPP,100.0,
+Meghnaghat 104 MW Power Plant,"30 June, 2020",HFO,IPP,104.0,
+"Sutiakhali, mymensing 50 MW Solar PP","04 November, 2020",Solar,IPP,50.0,
+Manikgonj 162 MW PP,"01 December, 2020",HFO,IPP,162.0,
+Tangail 22 MW PP (Duel Fuel),"20 December, 2020",HFO,IPP,22.0,
+Bibiana South 383 MW CCPP,2021-01-28 00:00:00,Gas,BPDB,383.0,
+Shajibazar 100 MW PP,2021-02-01 00:00:00,Gas,BPDB,100.0,
+Shirajgonj 6.55 MW Solar PP,"30 March, 2021",Solar,NWPGCL,6.0,
+Ghorasal 416 MW CCPP (3rd Unit Repowering) GT,"01 April, 2021",Gas,BPDB,260.0,
+"Potiya, Chattogram 116 MW PP","04 January, 2021",HFO,IPP,116.0,
+Potuakhali 150 MW PP,"18 January, 2021",HFO,IPP,150.0,
+Bhairab 54 MW PP,"08 March, 2021",HFO,IPP,54.0,
+Manikgonj 35 MW Solar PP,"12 March, 2021",Solar,IPP,35.0,
+Bhola 220 MW CCPP,"09 June, 2021",GAS/HSD,IPP,220.0,
+Ashugonj 400 MW CCPP (East),"December, 2021",Gas,APSCL,400.0,
+"Kanchan, Narayangonj 55 MW PP","December, 2021",HFO,IPP,55.0,
+Hatia 15 MW Power Plant,"December, 2021",HFO,IPP,5.0,
+"Mirsorai, Chittagong 150 MW PP","February, 2022",HFO/Gas,BR Power Gen,160.0,
+Ghorasal 3rd Unit Repowering ST,"March, 2022",Gas,BPDB,156.0,
+Ghorasal 4th Unit Repowering,"June, 2022",Gas,BPDB,409.0,
+Khulna 330 MW CCPP (D/F),"June, 2022",Gas/HSD,BPDB,336.0,
+Sreepur 150 MW  Power Plant,"December, 2022",HFO,B-R Power gen,163.0,
+"BIFPCL, Rampal, Coal Fired Power Plant","U#1: March, 2022
+U#2: June, 2022",Imported Coal,BIFPCL,1234.0,
+Chandpur 115 MW Power Plant,"January, 2022",HFO,IPP,115.0,
+Thakurgao 100 MW Power Plant,"March, 2022",HFO,IPP,115.0,
+Chattogram 2 x 612 MW Coal Fired Power Project,"1st Unit: July, 22 2nd Unit: August, 22",Imported Coal,IPP,1224.0,
+"Adani Power, Jharkhand, India","1st Unit: July, 22 2nd Unit: December, 22",Import,Import,1496.0,
+Meghnaghat 583 MW CCPP,"August, 2022",LNG,IPP,583.0,
+Borisal 307 MW Coal Fired Power Plant,"October, 2022",Imported Coal,IPP,307.0,
+Meghnaghat 584 MW CCPP (Unique),"November, 2022",LNG,IPP,584.0,
+"Bosila, Keraniganj 108 MW PP","22 February, 2017",HFO,IPP,108.0,
+Kushiara 163 MW CCPP,"25 July, 2017",Gas,IPP,109.0,
+Shorishabari Solar plant,"03 August, 2017",Solar,IPP,3.0,
+Ashuganj 150 MW ST3,1986-12-17 00:00:00,Gas,Public,150.0,2021-12-17
+Ashuganj 150 MW ST4,1987-05-04 00:00:00,Gas,Public,150.0,2022-04-05
+Ghorasal 210 MW STunit4,1989-03-18 00:00:00,Gas,Public,210.0,2022-06-30
+Sylhet 20 MW PP,1986-12-13 00:00:00,Gas,Public,20.0,2022-06-30
+Haripur 32 MW GT1,1987-10-31 00:00:00,Gas,Public,32.0,2022-06-30
+Fenchuganj 91 MW CCPP (1st Unit),1994-12-24 00:00:00,Gas,Public,97.0,2022-06-30
+"Siddirganj 100 MW Q.Rental PP
+(5 Years, Dutch Bangla Power)",2011-07-21 00:00:00,HFO,Private,100.0,2021-07-20
+"Amnura, Chapainawabgonj Q.RPP
+(Sinha Power )",2012-01-13 00:00:00,HFO,Private,50.0,2022-01-12
+"Bhola 80 MW Q. Rental PP (3 Years, Aggreco)",2011-05-31 00:00:00,Gas,Private,95.0,2022-03-17
+"Julda, 100 MW Q.RPP
+(5 Years, Acron Infra Service)",2012-03-26 00:00:00,HFO,Private,100.0,2022-03-25
+"Keranigonj 100 MW Q.Rental PP
+(Power Pack)",2012-03-27 00:00:00,HFO,Private,100.0,2022-03-26
+Katakhali 50 MW Q. Rental PP( NPSL),2012-05-22 00:00:00,HFO,Private,50.0,2022-05-21
+Ashuganj 150 MW ST5,1988-03-21 00:00:00,GAS,Public,150.0,2023-03-21
+Rangpur 20 MW PP,1988-08-16 00:00:00,HSD,Public,20.0,2023-06-30
+Saidpur 20 MW PP,1987-09-17 00:00:00,HSD,Public,20.0,2023-06-30
+Bhola 3 Years RPP (Venture),2009-07-12 00:00:00,Gas,Private,33.0,2022-07-11
+Bogura 3 Years RPP (Energy Prima),2011-11-13 00:00:00,Gas,Private,20.0,2022-11-12
+Summit_Chandina_2nd Phase(REB),2006-11-15 00:00:00,Gas,Private,14.0,2022-11-14
+Summit_Ashulia_2nd Phase(REB),2007-12-04 00:00:00,Gas,Private,34.0,2022-12-03
+Summit_Madubdi_2nd Phase(REB),2006-12-16 00:00:00,Gas,Private,24.0,2022-12-15
+Ashuganj 55 MW 3 Yrs RPP (Precision Energy),2010-04-07 00:00:00,Gas,Private,55.0,2023-04-06
+Noapara 100 MW PP (Bangla Trac),2018-04-18 00:00:00,HSD,Private,100.0,2023-04-17
+Doudkandi 200 MW PP (Bangla Trac),2018-04-27 00:00:00,HSD,Private,200.0,2023-04-26
+Bramongao 100 MW PP (Aggreko),2018-05-30 00:00:00,HSD,Private,100.0,2023-05-29
+Bogura 15 Years RPP (GBB),2008-06-17 00:00:00,Gas,Private,20.0,2023-06-16
+Aorahati 100 MW PP (Aggreko),2018-06-29 00:00:00,HSD,Private,100.0,2023-06-28
+Shazibar 2x35 MW PP,2000-10-25 00:00:00,Gas,Public,70.0,2023-10-25
+Raozan 210 MW Unit-1,1993-03-28 00:00:00,Gas,Public,210.0,2024-06-30
+Raojan 210 MW Unit- 2,1997-09-21 00:00:00,Gas,Public,210.0,2024-06-30
+Baghabari 71 MW GT,1991-06-04 00:00:00,Gas,Public,71.0,2024-06-30
+Pangao 300 MW PP (APR),2018-08-10 00:00:00,HSD,Private,300.0,2023-08-09
+Summit_Chandina_1st Phase(REB),2003-09-01 00:00:00,Gas,Private,11.0,2023-08-31
+Summit_Madubdi_1st Phase(REB),2003-09-01 00:00:00,Gas,Private,11.0,2023-08-31
+Summit_Ashulia_1st Phase(REB),2003-09-01 00:00:00,Gas,Private,11.0,2023-08-31
+Tangail SIPP (Doreen),2008-11-12 00:00:00,Gas,Private,22.0,2023-11-11
+Haripur 360 CCPP,2001-12-01 00:00:00,Gas,Private,360.0,2023-11-30
+Narsindi SIPP (REB),2008-12-21 00:00:00,Gas,Private,22.0,2023-12-20
+Hobiganj  SIPP ( REB),2009-01-10 00:00:00,Gas,Private,11.0,2024-01-09
+Shahjibazar 86 MW PP (15 Yrs RPP),2009-02-10 00:00:00,Gas,Private,86.0,2024-02-09
+Feni SIPP (Doreen),2009-02-16 00:00:00,Gas,Private,22.0,2024-02-15
+Baghabari 200 MW PP (Paramount),2019-02-16 00:00:00,HSD,Private,200.0,2024-02-15
+Ullapara SIPP ( REB),2009-03-02 00:00:00,Gas,Private,11.0,2024-03-01
+"Kumkargoan 50 MW PP (15 Years RPP)
+( Desh Energy)",2009-03-18 00:00:00,Gas,Private,10.0,2024-03-17
+Feni SIPP (REB),2009-04-25 00:00:00,Gas,Private,11.0,2024-04-24
+"Mouna, Gazipur SIPP (REB)",2009-05-12 00:00:00,Gas,Private,33.0,2024-05-11
+Barobkundo SIPP (Regent Power),2009-05-23 00:00:00,Gas,Private,22.0,2024-05-22
+"Rupganj , Narayanganj SIPP ( REB)",2009-06-09 00:00:00,Gas,Private,33.0,2024-06-08
+"Jangalia, Cumilla  SIPP (Summit)",2009-06-25 00:00:00,Gas,Private,33.0,2024-06-24
+Tongi 105 MW PP,2005-03-28 00:00:00,Gas,Public,105.0,2025-03-27
+Bheramara 20 MW PP GT3,1980-01-19 00:00:00,HSD,Public,20.0,2025-06-30
+Fenchuganj 15 Years RPP (Barakatullah),2009-10-24 00:00:00,Gas,Private,51.0,2024-10-23

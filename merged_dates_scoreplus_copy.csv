@@ -1,0 +1,158 @@
+,own_x,own_y,plant_name,plant_name_alt,plant,fuel_type_x,fuel_type_y,capacity_mw,capacity,potential_name,potential_cap
+0,Public,,Kutubdia 900KW Wind PP,"Wind Base Power Station, Kutubdia & Hatiya",,WIND,,0,,,
+1,IPP,IPP,Sharishabari 3 MW Engreen Solar Power Plant,Engreen Solar,Shorishabari Solar plant,SOLAR,SOLAR,3,3,,
+2,IPP,IPP,Sympa Solar Power 8 MW,Sympa Solar Power Limited,"Majipara, Tetulia Solar plant",SOLAR,SOLAR,8,8,,
+3,Public,BPDB,Kaptai Solar,7.4 MW Solar Pv Power Plant At Kaptai,Kaptai Solar Power Plant,SOLAR,SOLAR,7,7,Kaptai Solar Power Plant,7
+4,RENTAL & SIPP,,Fenchugonj 50 MW Rental (Energy Prima),"ENERGYPRIMA, FENCHUGONJ",,GAS,,,,,
+5,RENTAL & SIPP,,Kumargao 10 MW Desh Combridge (15 Yrs),"DESH CAMBRIDGE, KUMERGOAN",,GAS,,10,,,
+6,RENTAL & SIPP,,Amnura 50MW Sinha Power,AMNURA(SINHA POWER GENERATION),,HFO,,50,,,
+7,IPP,,Powerpac Mutiara Jamalpur Power plant Ltd,Power Pac Motiara - Jamalpur,,HFO,,95,,,
+8,RENTAL & SIPP,,Shahjahanullah Power Gen Co. Ltd.,Shahjanullah Power Generation Co. Ltd.,,GAS,,,,Shajanullah Power Company,25
+9,Public,Public,Ashuganj 50 MW PP,APSCL (New 50 MW),,GAS,GAS,53,97,Ashuganj Rental Power Plant,55
+10,IPP,IPP,20 MW Solar Teknaf,Technaf Solartech Energy Ltd. (20MW),"Teknaf, Coxsbazar 20 MW Solar Park",SOLAR,SOLAR,20,20,,
+11,RENTAL & SIPP,Private,Barabkundu SIPP 22 MW (Regent Power),Regent Power Ltd.,Barobkundo SIPP (Regent Power),GAS,GAS,22,22,Barobkundo SIPP (Regent Power),22
+12,RENTAL & SIPP,Private,Tangail SIPP (22 MW) (Doreen Power Ltd.),Doreen Power Generation & System Ltd.- Tangail,Tangail SIPP (Doreen),GAS,GAS,22,22,Tangail SIPP (Doreen),22
+13,RENTAL & SIPP,Private,Feni SIPP (22 MW) (Doreen Power Ltd.),Doreen Power Generation & System Ltd.-Feni,Feni SIPP (Doreen),GAS,GAS,22,22,Feni SIPP (Doreen),22
+14,IPP,IPP,Sinha Peoples Energy Ltd.Katpatti 52.5 MW Exp,Sinha People Energy Ltd.,"Kathpotti, Munshigonj 50 MW Power Plant",HFO,HFO,51,51,,
+15,RENTAL & SIPP,,Khanjahan Ali Noapara  40 MW,KHANJAHAN ALI POWER LTD.,,HFO,,,,,
+16,IPP,IPP,Manikganj 35MW Spectra Solar Park Ltd.,Spectra Solar Park,Manikgonj 35 MW Solar PP,SOLAR,SOLAR,35,35,,
+17,RENTAL & SIPP,,Bhola 32 MW (Venture Energy Resources Ltd.),"VENTURE ENERGY, BHOLA",,GAS,,33,,,
+18,RENTAL & SIPP,Private,Bogura RPP (24MW) 15 yrs,GBB POWER LTD.,Bogura 15 Years RPP (GBB),GAS,GAS,22,20,Bogura 3 Years quick rental PP,20
+19,Public,,Shikalbaha 150 MW Peaking PP,Shikalbaha Power Station (Gas Generation),,GAS,,,,,52
+20,Public,Public,"Baghabari 71 MW /GT
+Baghabari 100 MW /GT",Baghabari Power Station,Baghabari 71 MW GT,GAS,GAS,71,71,Baghabari 200 MW PP (Paramount),200
+21,IMPORT,,Power Import (Bheramara-Bharampur Phase-1),Power Grid Corporation of India - 250MW,,IMPORT,,500,,,
+22,Public,BPDB,Faridpur 50 MW Peaking PP,Faridpur Peacking Power Plant,Faridpur 50 MW Peaking PP,HFO,HFO,54,54,Faridpur 50 MW Peaking PP,54
+23,RENTAL & SIPP,,Jangalia 33 MW (Summit Purbanchol Po. Co. Ltd.),Summit Purbachal Power Ltd.-Jangalia,,GAS,,33,,,
+24,Public,EGCB,210 MW Shiddirganj TPP,Siddirgonj Power Station,Siddhirganj 335 MW CCPP,GAS,GAS,210,217,Siddirganj 335 MW CCPP ST Unit,118
+25,IPP,IPP,Midland Power Co. Ashuganj 51 MW,Midland Power Company Ltd.,Ashuganj 51 MW PP,GAS,GAS,51,51,,
+26,RENTAL & SIPP,,Ashugonj  55 MW 3Yrs Rental (Precision Energy),PRECISION ENERGY LTD.,,GAS,,55,,,
+27,RENTAL & SIPP,,Aggreko 95 MW Bhola,AGGREKO INTERNATIONAL LTD.-BHOLA (95 MW),,GAS,,95,,,
+28,IPP,IPP,50 MW HDFC Solar Power Plant,HDFC SinPower Ltd. (50MW),"Sutiakhali, mymensing 50 MW Solar PP",SOLAR,SOLAR,50,50,,
+29,IPP,IPP,Regent Energy & Power Ltd 108 MW,Regent Energy & Power Ltd.,Kushiara 163 MW CCPP,GAS,GAS,108,109,,
+30,Public,,RPCL Raozan 25 MW,RPCL 25MW Rawjan,,HFO,,25,,,
+31,Public,Public,Siddhirganj 2x120 MW GTPP,EGCB Ltd. (210X2) MW,,GAS,,210,,,
+32,Public,BPDB,Chandpur 150 MW CCPP,Chadpur CC Power Plant,Chandpur 150 MW CC Power Plant,GAS,GAS,163,163,Chandpur 150 MW CC Power Plant,163
+33,RENTAL & SIPP,,Summit  Power Co. Ltd Madangonj (100 MW),SUMMIT NARAYANGONJ POWER LTD.,,HFO,,102,,,
+34,RENTAL & SIPP,,KPCL( 115 MW) U-2,KPCL -UNIT-2,,HFO,,115,,,
+35,Public,Public,Sirajgonj 210 MW CC (NWPGCL) Unit-1,North West Power Gen (NWPGCL)- Sirajgonj,Raojan 210 MW Unit- 2,GAS,GAS,210,210,Sirajganj 400±10 MW CCPP,132
+36,RENTAL & SIPP,Private,Sahzibazar 86 MW RPP (15 yrs),SHAHJIBAZAR POWER CO. LTD.,Shahjibazar 86 MW PP (15 Yrs RPP),GAS,GAS,86,86,Shahjibazar 86 MW PP (15 Yrs RPP),86
+37,IPP,IPP,Summit   Barishal (110 MW),Summit Barishal Power Ltd.,"Bosila, Keraniganj 108 MW PP",HFO,HFO,110,108,,
+38,IPP,IPP,Tangail Polly Power 22 MW TPPGCl,Tangail Palli Power Generation Ltd. (22MW),Tangail 22 MW PP (Duel Fuel),HFO,HFO,22,22,,
+39,IPP,IPP,United Payra PP Patuakhali Imp,United Payra (150MW),Potuakhali 150 MW PP,HFO,HFO,150,150,,
+40,RENTAL & SIPP,,"Power Pac Mutiara,Keranigonj,100MW",POWER PAC MUTIARA KERANIGONJ,,HFO,,100,,,
+41,Public,Public, Ashuganj TPP Unit-3,APSCL (Except New 573 MW),Ashuganj 150 MW ST4,GAS,GAS,150,150,Ashuganj 150 MW PP,150
+42,Public,Public, Ashuganj TPP Unit-4,APSCL (Except New 573 MW),Ashuganj 150 MW ST3,GAS,GAS,150,150,Ashuganj 150 MW PP,150
+43,Public,Public, Ashuganj TPP Unit-5,APSCL (Except New 573 MW),Ashuganj 150 MW ST3,GAS,GAS,150,150,Ashuganj 225 CCPP: ST Unit,75
+44,Public,,Modhumoti 105 MW NWPGCL,North West Power Gen (NWPGCL)- Madhumati,,HFO,,105,,,
+45,IPP,IPP,Kushiara power Co. Ltd (163MW)CCPP Fenchuganj,Kushiara Power Company Ltd.,Kushiara 163 MW CCPP,GAS,GAS,163,109,Kusiara 163 MW CCPP,54
+46,RENTAL & SIPP,Private,Shiddirganj  Dutchbangla 100 MW,DUTCH BANGLA POWER & ASSOCIATES LTD.,"Siddirganj 100 MW Q.Rental PP
+(5 Years, Dutch Bangla Power)",HFO,HFO,100,100,"Siddirganj 100 MW Q.Rental PP
+(5 Years, Dutch Bangla Power)",100
+47,IPP,Private,Haripur Power Ltd.,Haripur Power Ltd.,Haripur 360 CCPP,GAS,GAS,360,360,Haripur 32 MW GT1,32
+48,IPP,IPP,Bhairab Power 54.5 MW,Bhairab Power Limited (54.50MW),Bhairab 54 MW PP,HFO,HFO,54,54,Bhairab 54 MW PP,54
+49,IPP,IPP,Baraka Patenga,Baraka Patenga Power Limited,Cumilla (Jangalia) 50 MW PP,HFO,HFO,50,52,,
+50,IPP,IPP,Lakdhanvi lanka- Bangla Jangalia Cumilla 52MW,Lakdhanvi Bangla Power Ltd.,Kamalaghat 50 MW PP,HFO,HFO,52,54,,
+51,IPP,IPP,Raj Lanka Power Gen.Com. Ltd.Nator 55 MW,Raj Lanka Power Limited,"Natore, Rajshahi 50 MW PP",HFO,HFO,52,52,,
+52,IPP,IPP,Noapara100MW (Bangla Trac),Bangla Track Power Company Ltd. (Unit-2),"Bramhongaon, Keraniganj 100 MW PP",HSD,HSD,100,100,Noapara 100 MW PP (Bangla Trac),100
+53,Public,,Gazipur 52 MW PP,RPCL 52MW Gazipur,,HFO,,52,,Haripur 360 CCPP,360
+54,RENTAL & SIPP,,Julda Acorn Infra.service Ltd.100MW,ACRON INFRASTRUCTURE SERVICE LTD.,,HFO,,100,,,
+55,IPP,,Rural Power Company Ltd.(RPCL),RPC LTD. Mymensingh (210 MW),,GAS,,210,,Mymensingh 200 MW PP,200
+56,IPP,IPP,"Aggreko, Brahmangaon 100MW",Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),"Aowrahati, Keranigonj 100 MW PP",HSD,HSD,100,100,,
+57,IPP,IPP,"Aggreko, Aourahati 100MW",Aggreko Energy Solution Ltd. - Aorahati (100MW),Noapara 100 MW PP,HSD,HSD,100,100,,
+58,Public,,Sirajgonj 210 MW CC (NWPGCL) Unit-3,North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3),,GAS,,220,,Sirajganj 400±10 MW CCPP,132
+59,IPP,IPP,Dhaka(Doreen) Northern Power Ltd.Manikgonj,Doreen Northern Power Limited,Kamalaghat 50 MW PP,HFO,HFO,55,54,,
+60,RENTAL & SIPP,BPDB,Katakhali (Northern) Peaking,NORTHERN POWER,Katakhali 50 MW Peaking Power Plant,HFO,HFO,50,50,Katakhali 50 MW Peaking Power Plant,50
+61,Public,Public,Haripur 412 MW CCPP,EGCB Ltd. (412) MW,Haripur 32 MW GT1,GAS,GAS,412,32,Chandpur 115 MW Power Plant,115
+62,IPP,IPP,Nutan Biddyut 220MW Bhola,Nutan Bidyut (Bangladesh) Ltd. (220MW),Bibiyana-II 341 MW CCPP : GT Unit,GAS,GAS,220,222,,
+63,IPP,IPP,Summit Narayangonj Power unit-2 Madangonj (55 MW),Summit Narayangonj Power Unit II Ltd.,Kamalaghat 50 MW PP,HFO,HFO,55,54,,
+64,IPP,IPP,Jodiac Power,Zodiac Power Ctg. Ltd.,Kamalaghat 50 MW PP,HFO,HFO,54,54,,
+65,IPP,IPP,Dhaka(Doreen) Southern Power Ltd.Nobabgonj,Doreen Southern Power Limited,Kamalaghat 50 MW PP,HFO,HFO,55,54,,
+66,Public,Public,Ashuganj 225 MW CCPP,APSCL (225 MW),Ashuganj 150 MW ST3,GAS,GAS,221,150,Ashuganj Rental Power Plant,55
+67,IPP,IPP,Meghnaghat Power Ltd.,Meghnaghat Power Ltd.,Meghnaghat 583 MW CCPP,GAS,LNG,450,583,Meghnaghat quick rental PP,100
+68,IPP,IPP,Feni Lanka Power 114 MW PP,Lanka Power Limited - Feni,Thakurgao 100 MW Power Plant,HFO,HFO,114,115,,
+69,IPP,IPP,Paramount Baghabari BanglaTrack,Paramount BTrac Energy Ltd. - Sirajgonj,Baghabari 200 MW PP,HSD,HSD,200,200,,
+70,Public,,Siddhirganj 335 MW CCPP,EGCB Ltd. (360) MW,,GAS,,335,,Siddhirganj 335 MW CCPP,217
+71,Public,APSCL,Ashuganj 450 MW CCPP (North),APSCL (450 MW) North,Ashuganj 450 MW CCPP (South),GAS,GAS,360,360,Ashuganj 225 MW CCPP : SC GT Unit,142
+72,IPP,IPP,Kamalaghat Banco Energy Generation,M/S Banco Energy Generation Ltd.,"Kanchan, Narayangonj 55 MW PP",HFO,HFO,54,55,,
+73,IPP,,Summit Bibiyana - II Power Co Ltd. 341 MW,Summit Bibiyana II Power Company Ltd.,,GAS,,341,,,
+74,IPP,,Summit Meghnaghat Power Co.Ltd.,Summit Meghnaghat Power Ltd.,,GAS,,305,,,
+75,IPP,IPP,Daudkandi 200MW(Bangla Trac),Bangla Track Power Company Ltd.,DaudKandi 200 MW PP,HSD,HSD,200,200,Doudkandi 200 MW PP (Bangla Trac),200
+76,Public,,Bheramara 360 MW CCPP (NWPGCL),North West Power Gen (NWPGCL)- Bheramara,,GAS,,410,,Bheramara 360 MW CCPP,278
+77,IPP,IPP,ECPV Chattogram Limited 108 MW,ECPV Power Ltd.,"Bosila, Keraniganj 108 MW PP",HFO,HFO,108,108,,
+78,IPP,IPP,Digital  Power & Associates Gagnagar,Digital Power & Associates Ltd.,Meghnaghat 104 MW Power Plant,HFO,HFO,102,104,,
+79,IMPORT,,Import from Tripura (1st Phase),NVVN Ltd. - India 160 MW (Tripura),,IMPORT,,100,,,
+80,IMPORT,,Import from Tripura (2nd  Phase),NVVN Ltd. - India 160 MW (Tripura),,IMPORT,,60,,,
+81,Public,,Sirajgonj 210 MW CC (NWPGCL) Unit-2,North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2),,GAS,,220,,Sirajganj 400±10 MW CCPP,132
+82,Public,APSCL,Ashuganj 450 MW CCPP (South),APSCL (450 MW) South,Ashuganj 450 MW CCPP (South),GAS,GAS,360,360,Ashuganj 195 MW Modular PP,195
+83,IPP,IPP,Julda 100 MW Unit - 2 (Acorn ),Acron Infrastructure Services Ltd. Unit-2,"Julda, Chattogram 100 MW PP (Unit-2)",HFO,HFO,100,100,,
+84,IPP,IPP,Orion Power Sonargaon Ltd.,Orion Power Sonargaon Ltd.,Meghnaghat 104 MW Power Plant,HFO,HFO,104,104,,
+85,IPP,IPP,Juldha Acorn 100 MW Unit-3,Acron Infracture Service Ltd. (Unit-3),"Julda, Chattogram 100 MW PP (Unit-2)",HFO,HFO,100,100,,
+86,IPP,IPP,HF 113 MW Power Limited,HF Power Company Limited,Thakurgao 100 MW Power Plant,HFO,HFO,113,115,,
+87,Public,RPCL,Gazipur 100 MW PP,RPCL - Gazipur (105MW),Gazipur 100 MW PP,HFO,HFO,105,105,Gazipur 50 MW PP,52
+88,IPP,IPP,Lobonchora Orion Power Rupsha Ltd. 105 MW,Orion Power Rupsha Ltd. - Khulna (105MW),Shikalbaha 105 MW PP,HFO,HFO,105,105,,
+89,IPP,,Sembcorp NWPGCL,Sembcorp NWPC Ltd. - Sirajgonj (282MW),,GAS,,414,,,
+90,Public,IPP,Kodda 150 MW PP,BPDB RPCL PowerGen Ltd.,Kadda 149 MW PP,HFO,HFO,149,149,Kadda 149 MW PP,149
+91,IPP,IPP,Baraka Shikalbaha 105MW PS,Baraka Shikalbaha Power Ltd. (105MW),Meghnaghat 104 MW Power Plant,HFO,HFO,105,104,,
+92,IPP,IPP,Confidence Power  Ltd. 113MW Rangpur,Confidence Power Ltd. - Rangpur,Bogura 113 MW Power Plant (Unit-1),HFO,HFO,113,113,,
+93,IPP,IPP,Bogura 113 MW PP (Confidence) Unit-1,Confidence Power Ltd. (Unit-1),Jamalpur 115 MW Power Plant,HFO,HFO,113,115,,
+94,IPP,IPP,Karnaphuli Power Ltd.,Karnaphuli Power Ltd.,"Bosila, Keraniganj 108 MW PP",HFO,HFO,110,108,,
+95,IPP,IPP,United Jamalpur PPL,United Jamalpur 200MW,Thakurgao 100 MW Power Plant,HFO,HFO,115,115,,
+96,IPP,IPP,Confidence CPBL- 2 Bogura,Confidence Power Ltd. (Unit-2) - Bogra,Bogura 113 MW PP (unit-2),HFO,HFO,113,113,,
+97,Public,,Khulna 225 MW (NWPGCL),North West Power Gen (NWPGCL)- Khulna,,HSD,,230,,"Rupsa, Khulna 105 MW PP",105
+98,IPP,IPP,Anlima Chattogram 116 MW,Anlima Energy Limited (116MW),"Potiya, Chattogram 116 MW PP",HFO,HFO,116,116,"Julda, Chattogram Power Plant",100
+99,IPP,IPP,Desh Energy Chandpur  200 MW,Desh Energy Chandpur Power Company Ltd.,Mymensingh 200 MW PP,HFO,HFO,200,200,,
+100,IPP,IPP,Ashugonj 150 MW (Midland East),Midland East Power Company Ltd.,Ashuganj 150 MW PP,HFO,HFO,150,150,Ashugonj 400 MW CCPP (East),400
+101,IPP,IPP,Kodda Gazipur 149MW Power Ltd. (unit-1 Summit) ACE Alliance,ACE Alliance Power Ltd. (149MW) (Summit Gazipur),Kadda 149 MW PP,HFO,HFO,149,149,,
+102,IMPORT,,Sembcorp Energy India Ltd.,Sembcrop Energy India Ltd. 250MW,,IMPORT,,200,,,
+103,IMPORT,,Power Import (Bheramara-Bharampur Phase-2),NVVN Ltd. - India 300 MW,,IMPORT,,300,,,
+104,IPP,IPP,Manikganj 162MW P0wer Generation,Manikgonj Power Generations Limited (162MW),Manikgonj 162 MW PP,HFO,HFO,162,162,,
+105,IPP,IPP,United Power Co. Ltd.200 MW Exp,United Mymensingh Power Ltd. (200MW),Ashuganj 195 MW Modular PP,GAS,GAS,195,195,,
+106,IPP,IPP,United Mymensing Power(UMPL) 200MW Generation,United Mymensingh Power Ltd. (200MW),Mymensingh 200 MW PP,HFO,HFO,200,200,,
+107,IPP,IPP,Kodda Gazipur 300MW Power Ltd.(unit-2 Summit),Summit Gazipur II Power Ltd. - Kodda (300MW),"Kodda, Gazipur 300 MW PP",HFO,HFO,300,300,,
+108,IPP,IPP,United Anwara 300MW PS,United - Anawara (300MW),"Anowara, Chattogram 300 MW PP",HFO,HFO,300,300,,
+109,Joint venture,,"Payra, Potuakhali 2*660 MW PP (U-1)",Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,,COAL,,622,,"Payra, Potuakhali 1320 Coal Fired Power Plant (1st Unit)",622
+110,Joint venture,,"Payra, Potuakhali 2*660 MW PP (U-2)",Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,,,,622,,"Payra, Potuakhali 1320 Coal Fired Power Plant (1st Unit)",622
+111,RENTAL & SIPP,,Ghorashal 78 MW QRPP (3 Yrs Max Power),MAX POWER LTD.-GHORASAL,,GAS,,,,,
+112,RENTAL & SIPP,Private,Fenchugonj 51 MW Rental (15 Yrs) (Barakatullah),BARKATULLAH ELECTRO DYNAMICS LTD.,Fenchuganj 15 Years RPP (Barakatullah),GAS,GAS,51,51,Fenchuganj 15 Years RPP (Barakatullah),51
+113,Public,,Santahar 50 MW PP,Shantahar 50MW Power Plant,,HFO,,50,,Shajibazar 100 MW PP,100
+114,Public,BPDB,Bera 70 MW Peaking RE,Bera Peacking Power Plant,Bera 70 MW Peaking PP,HFO,HFO,71,71,Bera 70 MW Peaking PP,71
+115,Public,Public,"Shahjibazar 70 MW GT, Habiganj",Shahjibazar Power Station,Baghabari 71 MW GT,GAS,GAS,70,71,Shahjibazar CCPP,330
+116,Public,Public,Fenchuganj C.C. (Unit #1),Fenchuganj 2x 90 MW CCPP (1st & 2nd Unit),Fenchuganj 91 MW CCPP (1st Unit),GAS,GAS,97,97,Fenchuganj 91 MW CCPP (1st Unit),97
+117,Public,Public,Fenchuganj C.C. (Unit #2),Fenchuganj 2x 90 MW CCPP (1st & 2nd Unit),Fenchuganj 91 MW CCPP (1st Unit),GAS,GAS,104,97,Fenchuganj 90 MW CCPP,104
+118,Public,,Karnafuli Hydro,Karnafuli Hydro Power Station,,HYDRO,,230,,,
+119,Public,BPDB,"Sangu, Dohazari-kaliaish 100 MW PPP",Dohazari Peacking Power Plant,"Sangu, Dohazari 100 MW Peaking PP",HFO,HFO,102,102,Hathazari 100 MW Peaking PP,98
+120,Public,Public,Rauzan 210 MW /ST (1st),"Chittagong Power Station, Rawzan",Raozan 210 MW Unit-1,GAS,GAS,210,210,Raujan 25 MW PP,25
+121,Public,Public,Rauzan 210 MW /ST (2nd),"Chittagong Power Station, Rawzan",Ghorasal 210 MW STunit4,GAS,GAS,210,210,Sirajganj 225 MW CCPP (2nd  Unit),220
+122,Public,BPDB,Bibiana III 400 MW CCPP,Bibiyana-3 400MW,Bibiana #3 CCPP,GAS,GAS,400,400,Bibiana #3 CCPP,400
+123,Public,Public,Sylhet 225 MW CCPP,Sylhet 225 MW Peaking Power Plant,Sylhet 20 MW PP,GAS,GAS,231,20,Sylhet 20 MW PP,20
+124,Public,BPDB,Baghabari 50 MW Peaking RE,Baghabari 50 Peaking Power Plant,Santahar 50 MW  Peaking Power Plant,HFO,HFO,52,50,Hathazari 100 MW Peaking PP,98
+125,Public,Public,Saidpur 20 MW /GT,Sayedpur Gas Turbine Power Station,Saidpur 20 MW PP,HSD,HSD,20,20,Chandpur 115 MW Power Plant,115
+126,Public,Public,Sylhet 1x20 MW /GT,Kumergoan Gt Power Sylhet,Sylhet 20 MW PP,GAS,GAS,20,20,Sylhet 150 MW Power Plant,142
+127,Public,Public,Bheramara GT unit-3,Bheramara Power Station,Bheramara 20 MW PP GT3,HSD,HSD,20,20,Bheramara 3 Years Rental PP,110
+128,Public,, Ghorasal Repowered CCPP Unit-3,Ghorashal Power Station 630MW,,GAS,,260,,Ghorashal 365 MW CCPP,365
+129,Public,Public, Ghorasal Repowered CCPP Unit-4,Ghorashal Power Station 630MW,Ghorasal 210 MW STunit4,GAS,GAS,210,210,Ghorashal 365 MW CCPP,365
+130,Public,Public, Ghorasal TPP Unit-5,Ghorashal Power Station 630MW,Ghorasal 210 MW STunit4,GAS,GAS,210,210,Ghorashal 365 MW CCPP,365
+131,Public,Public, Ghorasal TPP Unit-6,Ghorashal Power Station 630MW,Ghorasal 210 MW STunit4,GAS,GAS,0,210,Ghorashal quick rental PP,145
+132,Public,BPDB,Ghorasal 365 MW CCPP Unit-7,Ghorashal Power Station 365MW,Ghorashal 365 MW CCPP,GAS,GAS,365,365,Ghorashal 365 MW CCPP,365
+133,Public,BPDB,Bibiyana - South  383 MW CCPP,Bibiyana - South,Bibiana South 383 MW CCPP,GAS,GAS,383,383,Bibiana South 383 MW CCPP,383
+134,Public,BPDB,Shahjibazar 330 MW CCPP,Shahjibazar 330 CCPP,Shahjibazar CCPP,GAS,GAS,330,330,Shahjibazar CCPP,330
+135,Public,,"Chapainobabgonj Peaking Power Station 100 MW, Amnura",Chapainobabgonj Peaking Pp 100 MW Amnura,,HFO,,104,,,
+136,Public,BPDB,"Barapukuria Coal based S/T (unit 1,2)",Barapukuria Power Station 1,Barapukuria 275 MW (3rd Unit),COAL,COAL,250,274,Barapukuria 275 MW (3rd Unit),274
+137,Public,BPDB,Barapukuria Coal based S/T (unit 3),Barapukuria Power Station 2,Barapukuria 275 MW (3rd Unit),COAL,COAL,274,274,Barapukuria 275 MW (3rd Unit),274
+138,Public,BPDB,Gopalganj 100 MW Peaking PP,Gopalgonj Peaking Power Plant,Gopalganj 100 MW Peaking PP,HFO,HFO,109,109,Madangonj 55 MW Peaking Plant,55
+139,Public,BPDB,"Barapukuria Coal based S/T (unit 1,2)",Barapukuria Power Station 1,Barapukuria 275 MW (3rd Unit),COAL,COAL,250,274,Barapukuria 275 MW (3rd Unit),274
+140,Public,BPDB,Barapukuria Coal based S/T (unit 3),Barapukuria Power Station 2,Barapukuria 275 MW (3rd Unit),COAL,COAL,274,274,Barapukuria 275 MW (3rd Unit),274
+141,Public,,Shikalbaha 225 MW PS,Shikalbaha 225 MW Shamipur (Dual Fuel),,GAS,,225,,,
+142,Public,BPDB,Bhola 225 MW CCPP,Bhola 225 MW CCPP,Bhola 225 MW CCPP,GAS,GAS,194,194,Bhola 220 MW CCPP,220
+143,Public,IPP,Katakhali 50 MW PP,Katakhali 50MW Power Plant,Potuakhali 150 MW PP,HFO,HFO,50,150,Potuakhali 150 MW PP,150
+144,Public,Public,Tongi 80 MW GTPP,Tongi Power Station,Tongi 105 MW PP,GAS,GAS,105,105,Tongi 105 MW PP,105
+145,Public,Public,Rangpur 20 MW /GT,Rangpur Gas Turbine Power Station,Rangpur 20 MW PP,HSD,HSD,20,20,Rangpur 20 MW PP,20
+146,Public,BPDB,Hathazari 100 MW Peaking PP,Hathazari Peacking Power Plant,Hathazari 100 MW Peaking PP,HFO,HFO,98,98,Hathazari 100 MW Peaking PP,98
+147,Public,BPDB,Shahazibazar 100 MW GT,Shahjibazar 100 P/S,Shajibazar 100 MW PP,GAS,GAS,100,100,Shajibazar 100 MW PP,100
+148,Public,Public,Haripur GTPP,Sbu Haripur (BPDB Book Costs),Haripur 32 MW GT1,GAS,GAS,32,32,Haripur 32 MW GT1,32
+149,Public,BPDB,Titas 50 MW Peaking PP,Titas 50 MW Peacking Power Plant,Bera 70 MW Peaking PP,HFO,HFO,52,71,Bera 70 MW Peaking PP,71
+150,IPP,IPP,CLC Power Co. Ltd. 108 MW Bosila Keranigonj,CLC Power Company Ltd.,"Bosila, Keraniganj 108 MW PP",HFO,HFO,108,108,"Bosila, Keraniganj 108 MW PP",108
+151,IPP,IPP,APR Energy 300MW,APR Energy 300MW,"Pangaon, keraniganj 300 MW PP",HSD,HSD,300,300,,
+152,RENTAL & SIPP,Private,Bogura 20 RPP (3 Yrs) Energy Prima,"ENERGYPRIMA, BOGRA",Bogura 3 Years RPP (Energy Prima),GAS,GAS,20,20,Bogura 3 Years RPP (Energy Prima),20
+153,RENTAL & SIPP,Rental (BPDB),"IEL, Meghnaghat 100 MW",IELCONSOURTIUM & ASSOCIATES,Meghnaghat quick rental PP,HFO,HFO,100,100,Meghnaghat 583 MW CCPP,583

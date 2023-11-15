@@ -1,0 +1,155 @@
+namelist,datename
+"['Wind Base Power Station, Kutubdia & Hatiya', 'Kutubdia 900KW Wind PP']",Shikalbaha 150 MW Power Plant
+"['Engreen Solar', 'Sharishabari 3 MW Engreen Solar Power Plant']",Siddhirganj 2x120 MW GTPP
+"['Sympa Solar Power Limited', 'Sympa Solar Power 8 MW']",Ashuganj Rental Power Plant
+"['7.4 MW Solar Pv Power Plant At Kaptai', 'Kaptai Solar']",Shikalbaha 55 MW Rental Power Plant
+"['ENERGYPRIMA, FENCHUGONJ', 'Fenchugonj 50 MW Rental (Energy Prima)']","Thakurgaon, 3 Years Rental PP"
+"['DESH CAMBRIDGE, KUMERGOAN', 'Kumargao 10 MW Desh Combridge (15 Yrs)']",Ghorashal quick rental PP
+"['AMNURA(SINHA POWER GENERATION)', 'Amnura 50MW Sinha Power']",Khulna quick rental PP
+"['Power Pac Motiara - Jamalpur', 'Powerpac Mutiara Jamalpur Power plant Ltd']","Pagla, Narayaganj quick rental PP"
+"['Shahjanullah Power Generation Co. Ltd.', 'Shahjahanullah Power Gen Co. Ltd.']",Bheramara 3 Years Rental PP
+"['Chapainobabgonj Peaking Pp 100 MW Amnura', 'Chapainobabgonj Peaking Power Station 100 MW, Amnura']",Ashuganj 50 MW Power Plant
+"['Technaf Solartech Energy Ltd. (20MW)', '20 MW Solar Teknaf']",Baghabari 50 MW Peaking PP
+"['Regent Power Ltd.', 'Barabkundu SIPP 22 MW (Regent Power)']",Gopalganj 100 MW Peaking PP
+"['Doreen Power Generation & System Ltd.- Tangail', 'Tangail SIPP (22 MW) (Doreen Power Ltd.)']",Fenchuganj 90 MW CCPP
+"['Doreen Power Generation & System Ltd.-Feni', 'Feni SIPP (22 MW) (Doreen Power Ltd.)']",Bera 70 MW Peaking PP
+"['Sinha People Energy Ltd.', 'Sinha Peoples Energy Ltd.Katpatti 52.5 MW Exp']","Titas, Doudkandi 50 MW Peaking PP"
+"['KHANJAHAN ALI POWER LTD.', 'Khanjahan Ali Noapara  40 MW']",Faridpur 50 MW Peaking PP
+"['Spectra Solar Park', 'Manikganj 35MW Spectra Solar Park Ltd.']",Hathazari 100 MW Peaking PP
+"['Midland Power Company Ltd.', 'Midland Power Co. Ashuganj 51 MW']","Sangu, Dohazari 100 MW Peaking PP"
+"['GBB POWER LTD.', 'Bogura RPP (24MW) 15 yrs']",Siddhirganj 2x120 MW Peaking PP
+"['Shikalbaha Power Station (Gas Generation)', 'Shikalbaha 150 MW Peaking PP']",Siddhirganj quick rental PP
+"['APSCL (Except New 573 MW)', ' Ashuganj TPP Unit-4']",B Baria quick rental PP
+"['Power Grid Corporation of India - 250MW', 'Power Import (Bheramara-Bharampur Phase-1)']",Modanganj quick rental PP
+"['Orion Power Rupsha Ltd. - Khulna (105MW)', 'Lobonchora Orion Power Rupsha Ltd. 105 MW']",Meghnaghat quick rental PP
+"['Summit Purbachal Power Ltd.-Jangalia', 'Jangalia 33 MW (Summit Purbanchol Po. Co. Ltd.)']",Ghorashal quick rental PP
+"['Siddirgonj Power Station', '210 MW Shiddirganj TPP']",Noapara quick rental PP
+"['Midland Power Company Ltd.', 'Midland Power Co. Ashuganj 51 MW']",Ashuganj quick rental PP
+"['PRECISION ENERGY LTD.', 'Ashugonj  55 MW 3Yrs Rental (Precision Energy)']",Khulna quick rental PP
+"['AGGREKO INTERNATIONAL LTD.-BHOLA (95 MW)', 'Aggreko 95 MW Bhola']",Ashuganj quick rental PP
+"['HDFC SinPower Ltd. (50MW)', '50 MW HDFC Solar Power Plant']",Siddhirganj quick rental PP
+"['NVVN Ltd. - India 160 MW (Tripura)', 'Import from Tripura (1st Phase)']","Noapara, Jashore (5 Years Rental) PP"
+"['Fenchuganj 2x 90 MW CCPP (1st & 2nd Unit)', 'Fenchuganj C.C. (Unit #1)']",Bogura 3 Years quick rental PP
+"['EGCB Ltd. (210X2) MW', 'Siddhirganj 2x120 MW GTPP']",Chandpur 150 MW CC Power Plant
+"['Barapukuria Power Station 2', 'Barapukuria Coal based S/T (unit 3)']",Sylhet 150 MW Power Plant
+"['SUMMIT NARAYANGONJ POWER LTD.', 'Summit  Power Co. Ltd Madangonj (100 MW)']",Gazipur 50 MW PP
+"['KPCL -UNIT-2', 'KPCL( 115 MW) U-2']",Santahar 50 MW  Peaking Power Plant
+"['Zodiac Power Ctg. Ltd.', 'Jodiac Power']",Katakhali 50 MW Peaking Power Plant
+"['SHAHJIBAZAR POWER CO. LTD.', 'Sahzibazar 86 MW RPP (15 yrs)']",Sirajganj 150 MW GTPP
+"['Summit Barishal Power Ltd.', 'Summit   Barishal (110 MW)']","Amnura, Chapainawabganj Power Plant"
+"['Shantahar 50MW Power Plant', 'Santahar 50 MW PP']",Fenchuganj 3 Years Rental Power Plant
+"['United Payra (150MW)', 'United Payra PP Patuakhali Imp']","Julda, Chattogram Power Plant"
+"['POWER PAC MUTIARA KERANIGONJ', 'Power Pac Mutiara,Keranigonj,100MW']",Keraniganj Power Plant
+"['Bhola 225 MW CCPP', 'Bhola 225 MW CCPP']","Katakhali, Rajshahi Power Plant"
+"['APSCL (Except New 573 MW)', ' Ashuganj TPP Unit-4']",Raujan 25 MW PP
+"['Baghabari 50 Peaking Power Plant', 'Baghabari 50 MW Peaking RE']",Khulna 150 MW GTPP
+"['Confidence Power Ltd. (Unit-2) - Bogra', 'Confidence CPBL- 2 Bogura']",Haripur 360 MW CCPP
+"['Sembcrop Energy India Ltd. 250MW', 'Sembcorp Energy India Ltd.']",Shajanullah Power Company
+"['Meghnaghat Power Ltd.', 'Meghnaghat Power Ltd.']",Regional Import
+"['IELCONSOURTIUM & ASSOCIATES', 'IEL, Meghnaghat 100 MW']",Ashuganj 51 MW PP
+"['Katakhali 50MW Power Plant', 'Katakhali 50 MW PP']",Sirajganj 150 MW PP Conversion
+"['Baraka Patenga Power Limited', 'Baraka Patenga']","Natore, Rajshahi 50 MW PP"
+"['Lakdhanvi Bangla Power Ltd.', 'Lakdhanvi lanka- Bangla Jangalia Cumilla 52MW']",Baraka-Patenga Chattogram 50 MW PP
+"['Raj Lanka Power Limited', 'Raj Lanka Power Gen.Com. Ltd.Nator 55 MW']",Meghnaghat 300-450 MW CCPP (2nd Unit Dual Fuel: SC GT Unit)
+"['North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2)', 'Sirajgonj 210 MW CC (NWPGCL) Unit-2']",Gogonnagar 100 MW PP
+"['RPCL - Gazipur (105MW)', 'Gazipur 100 MW PP']","Ghorashal, Narsindi 100 MW PP"
+"['ACRON INFRASTRUCTURE SERVICE LTD.', 'Julda Acorn Infra.service Ltd.100MW']",Cumilla (Jangalia) 50 MW PP
+"['RPC LTD. Mymensingh (210 MW)', 'Rural Power Company Ltd.(RPCL)']",Ashuganj 225 MW CCPP : SC GT Unit
+"['Aggreko Energy Solution Ltd. - Bhahmangoan (100MW)', 'Aggreko, Brahmangaon 100MW']","Kodda, Gazipur 150 MW Power Plant"
+"['North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3)', 'Sirajgonj 210 MW CC (NWPGCL) Unit-3']",Bhola 225 MW CCPP
+"['North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3)', 'Sirajgonj 210 MW CC (NWPGCL) Unit-3']",Ashuganj 225 CCPP: ST Unit
+"['Doreen Northern Power Limited', 'Dhaka(Doreen) Northern Power Ltd.Manikgonj']","Potiya, Chattogram 108 MW Power Plant"
+"['NORTHERN POWER', 'Katakhali (Northern) Peaking']","Kathpotti, Munshigonj 50 MW Power Plant"
+"['EGCB Ltd. (412) MW', 'Haripur 412 MW CCPP']",Ashuganj 195 MW Modular PP
+"['Nutan Bidyut (Bangladesh) Ltd. (220MW)', 'Nutan Biddyut 220MW Bhola']",Meghnaghat 335 MW CCPP (2nd Unit) : ST Unit
+"['Summit Narayangonj Power Unit II Ltd.', 'Summit Narayangonj Power unit-2 Madangonj (55 MW)']",Bibiyana-II 341 MW CCPP : GT Unit
+"['Zodiac Power Ctg. Ltd.', 'Jodiac Power']",Bibiyana-II 341 MW CCPP : ST Unit
+"['Doreen Southern Power Limited', 'Dhaka(Doreen) Southern Power Ltd.Nobabgonj']",Upgradation of Khulna 150 MW to 225 MW
+"['Barapukuria Power Station 1', 'Barapukuria Coal based S/T (unit 1,2)']",Ashuganj (South) 450 MW CCPP
+"['Meghnaghat Power Ltd.', 'Meghnaghat Power Ltd.']",Shahjibazar CCPP
+"['Lanka Power Limited - Feni', 'Feni Lanka Power 114 MW PP']",Madangonj 55 MW Peaking Plant
+"['Paramount BTrac Energy Ltd. - Sirajgonj', 'Paramount Baghabari BanglaTrack']",Barishal 110 MW PP
+"['EGCB Ltd. (360) MW', 'Siddhirganj 335 MW CCPP']",Nababganj 55 MW PP
+"['Barapukuria Power Station 2', 'Barapukuria Coal based S/T (unit 3)']",Manikganj 55 MW PP
+"['M/S Banco Energy Generation Ltd.', 'Kamalaghat Banco Energy Generation']",Jamalpur 95 MW PP
+"['NVVN Ltd. - India 300 MW', 'Power Import (Bheramara-Bharampur Phase-2)']",Bheramara 360 MW CCPP
+"['Summit Meghnaghat Power Ltd.', 'Summit Meghnaghat Power Co.Ltd.']",Ashuganj 450 MW CCPP (South)
+"['Bangla Track Power Company Ltd.', 'Daudkandi 200MW(Bangla Trac)']",Chapainawabganj 100 MW PP
+"['ACE Alliance Power Ltd. (149MW) (Summit Gazipur)', 'Kodda Gazipur 149MW Power Ltd. (unit-1 Summit) ACE Alliance']",Shikalbaha 225 MW CCPP
+"['ECPV Power Ltd.', 'ECPV Chattogram Limited 108 MW']","Bosila, Keraniganj 108 MW PP"
+"['Digital Power & Associates Ltd.', 'Digital  Power & Associates Gagnagar']",Kushiara 163 MW CCPP
+"['NVVN Ltd. - India 160 MW (Tripura)', 'Import from Tripura (1st Phase)']",Shorishabari Solar plant
+"['NVVN Ltd. - India 160 MW (Tripura)', 'Import from Tripura (2nd  Phase)']",Bheramara 360 MW CCPP (ST unit)
+"['North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2)', 'Sirajgonj 210 MW CC (NWPGCL) Unit-2']",Barapukuria 275 MW (3rd Unit)
+"['Barapukuria Power Station 1', 'Barapukuria Coal based S/T (unit 1,2)']",Ghorashal 365 MW CCPP
+"['Bera Peacking Power Plant', 'Bera 70 MW Peaking RE']",Sirajganj 225 MW CCPP (2nd  Unit)
+"['Orion Power Sonargaon Ltd.', 'Orion Power Sonargaon Ltd.']",Siddhirganj 335 MW CCPP
+"['Gopalgonj Peaking Power Plant', 'Gopalganj 100 MW Peaking PP']",Sirajganj 225 MW CCPP (3rd  Unit)
+"['HF Power Company Limited', 'HF 113 MW Power Limited']",Kamalaghat 50 MW PP
+"['RPCL - Gazipur (105MW)', 'Gazipur 100 MW PP']",Noapara 100 MW PP
+"['Orion Power Rupsha Ltd. - Khulna (105MW)', 'Lobonchora Orion Power Rupsha Ltd. 105 MW']",Kusiara 163 MW CCPP
+"['Sylhet 225 MW Peaking Power Plant', 'Sylhet 225 MW CCPP']",DaudKandi 200 MW PP
+"['Chittagong Power Station, Rawzan', 'Rauzan 210 MW /ST (1st)']","Kodda, Gazipur 300 MW PP"
+"['Baraka Shikalbaha Power Ltd. (105MW)', 'Baraka Shikalbaha 105MW PS']","Bramhongaon, Keraniganj 100 MW PP"
+"['Confidence Power Ltd. - Rangpur', 'Confidence Power  Ltd. 113MW Rangpur']",Mymensingh 200 MW PP
+"['Confidence Power Ltd. (Unit-1)', 'Bogura 113 MW PP (Confidence) Unit-1']","Aowrahati, Keranigonj 100 MW PP"
+"['Karnaphuli Power Ltd.', 'Karnaphuli Power Ltd.']",Kadda 149 MW PP
+"['United Jamalpur 200MW', 'United Jamalpur PPL']","Pangaon, keraniganj 300 MW PP"
+"['Confidence Power Ltd. (Unit-2) - Bogra', 'Confidence CPBL- 2 Bogura']",Power import (2nd HVDC)
+"['Summit Gazipur II Power Ltd. - Kodda (300MW)', 'Kodda Gazipur 300MW Power Ltd.(unit-2 Summit)']","Teknaf, Coxsbazar 20 MW Solar Park"
+"['Anlima Energy Limited (116MW)', 'Anlima Chattogram 116 MW']",Sirajganj 400±10 MW CCPP
+"['Desh Energy Chandpur Power Company Ltd.', 'Desh Energy Chandpur  200 MW']","Rupsa, Khulna 105 MW PP"
+"['Midland East Power Company Ltd.', 'Ashugonj 150 MW (Midland East)']",Chandpur 200 MW PP
+"['ACE Alliance Power Ltd. (149MW) (Summit Gazipur)', 'Kodda Gazipur 149MW Power Ltd. (unit-1 Summit) ACE Alliance']","Julda ,CTG 100 MW PP (Unit-3)"
+"['Sembcrop Energy India Ltd. 250MW', 'Sembcorp Energy India Ltd.']",Ashuganj 150 MW PP
+"['NVVN Ltd. - India 300 MW', 'Power Import (Bheramara-Bharampur Phase-2)']",Sirajgonj 225 MW CCPP (3rd Unit) (ST Unit)
+"['Manikgonj Power Generations Limited (162MW)', 'Manikganj 162MW P0wer Generation']",Bibiana #3 CCPP
+"['Kumergoan Gt Power Sylhet', 'Sylhet 1x20 MW /GT']","Modumoti, Bagerhat 100 MW PP"
+"['United Mymensingh Power Ltd. (200MW)', 'United Mymensing Power(UMPL) 200MW Generation']",Gazipur 100 MW PP
+"['Summit Gazipur II Power Ltd. - Kodda (300MW)', 'Kodda Gazipur 300MW Power Ltd.(unit-2 Summit)']",Kaptai Solar Power Plant
+"['United - Anawara (300MW)', 'United Anwara 300MW PS']",Siddirganj 335 MW CCPP ST Unit
+"['Bangladsh -China Power Company (Pvt.) Ltd. 1320MW', 'Payra, Potuakhali 2*660 MW PP (U-1)']",Baghabari 200 MW PP
+"['Bangladsh -China Power Company (Pvt.) Ltd. 1320MW', 'Payra, Potuakhali 2*660 MW PP (U-2)']",Jamalpur 115 MW Power Plant
+"['MAX POWER LTD.-GHORASAL', 'Ghorashal 78 MW QRPP (3 Yrs Max Power)']",Bogura 113 MW PP (unit-2)
+"['BARKATULLAH ELECTRO DYNAMICS LTD.', 'Fenchugonj 51 MW Rental (15 Yrs) (Barakatullah)']",Sirajganj 400±10 MW CCPP
+"['Shantahar 50MW Power Plant', 'Santahar 50 MW PP']",Shikalbaha 105 MW PP
+"['Bera Peacking Power Plant', 'Bera 70 MW Peaking RE']","Anowara, Chattogram 300 MW PP"
+"['Hathazari Peacking Power Plant', 'Hathazari 100 MW Peaking PP']","Majipara, Tetulia Solar plant"
+"['Fenchuganj 2x 90 MW CCPP (1st & 2nd Unit)', 'Fenchuganj C.C. (Unit #1)']",Rangpur 113 MW Power Plant
+"['Fenchuganj 2x 90 MW CCPP (1st & 2nd Unit)', 'Fenchuganj C.C. (Unit #2)']",Shikalbaha 110 MW PP
+"['Shikalbaha 225 MW Shamipur (Dual Fuel)', 'Shikalbaha 225 MW PS']","Shikalbaha, Chattogram 54 MW PP"
+"['Shahjibazar 330 CCPP', 'Shahjibazar 330 MW CCPP']",Bogura 113 MW Power Plant (Unit-1)
+"['Chittagong Power Station, Rawzan', 'Rauzan 210 MW /ST (1st)']",Feni 114 MW Power Plant
+"['Chittagong Power Station, Rawzan', 'Rauzan 210 MW /ST (2nd)']","Choumohoni, Noakhali 113 MW Power Plant"
+"['Bibiyana-3 400MW', 'Bibiana III 400 MW CCPP']",Sylhet 150 MW PP Conversion
+"['Sylhet 225 MW Peaking Power Plant', 'Sylhet 225 MW CCPP']","Payra, Potuakhali 1320 Coal Fired Power Plant (1st Unit)"
+"['Baghabari 50 Peaking Power Plant', 'Baghabari 50 MW Peaking RE']","Julda, Chattogram 100 MW PP (Unit-2)"
+"['Sayedpur Gas Turbine Power Station', 'Saidpur 20 MW /GT']",Meghnaghat 104 MW Power Plant
+"['Kumergoan Gt Power Sylhet', 'Sylhet 1x20 MW /GT']","Sutiakhali, mymensing 50 MW Solar PP"
+"['Bheramara Power Station', 'Bheramara GT unit-3']",Manikgonj 162 MW PP
+"['Ghorashal Power Station 630MW', ' Ghorasal Repowered CCPP Unit-3']",Tangail 22 MW PP (Duel Fuel)
+"['Ghorashal Power Station 630MW', ' Ghorasal Repowered CCPP Unit-4']",Bibiana South 383 MW CCPP
+"['Ghorashal Power Station 630MW', ' Ghorasal TPP Unit-5']",Shajibazar 100 MW PP
+"['Ghorashal Power Station 630MW', ' Ghorasal TPP Unit-6']",Shirajgonj 6.55 MW Solar PP
+"['Ghorashal Power Station 365MW', 'Ghorasal 365 MW CCPP Unit-7']",Ghorasal 416 MW CCPP (3rd Unit Repowering) GT
+"['CLC Power Company Ltd.', 'CLC Power Co. Ltd. 108 MW Bosila Keranigonj']","Potiya, Chattogram 116 MW PP"
+"['Shahjibazar 330 CCPP', 'Shahjibazar 330 MW CCPP']",Potuakhali 150 MW PP
+"['Chapainobabgonj Peaking Pp 100 MW Amnura', 'Chapainobabgonj Peaking Power Station 100 MW, Amnura']",Bhairab 54 MW PP
+"['Barapukuria Power Station 1', 'Barapukuria Coal based S/T (unit 1,2)']",Manikgonj 35 MW Solar PP
+"['Barapukuria Power Station 2', 'Barapukuria Coal based S/T (unit 3)']",Bhola 220 MW CCPP
+"['Gopalgonj Peaking Power Plant', 'Gopalganj 100 MW Peaking PP']",Ashugonj 400 MW CCPP (East)
+"['Barapukuria Power Station 1', 'Barapukuria Coal based S/T (unit 1,2)']","Kanchan, Narayangonj 55 MW PP"
+"['Barapukuria Power Station 2', 'Barapukuria Coal based S/T (unit 3)']",Hatia 15 MW Power Plant
+"['Shikalbaha 225 MW Shamipur (Dual Fuel)', 'Shikalbaha 225 MW PS']","Mirsorai, Chittagong 150 MW PP"
+"['Bhola 225 MW CCPP', 'Bhola 225 MW CCPP']",Ghorasal 3rd Unit Repowering ST
+"['Katakhali 50MW Power Plant', 'Katakhali 50 MW PP']",Ghorasal 4th Unit Repowering
+"['Sbu Haripur (BPDB Book Costs)', 'Haripur GTPP']",Khulna 330 MW CCPP (D/F)
+"['Rangpur Gas Turbine Power Station', 'Rangpur 20 MW /GT']",Sreepur 150 MW  Power Plant
+"['Hathazari Peacking Power Plant', 'Hathazari 100 MW Peaking PP']",
+"['Shahjibazar 100 P/S', 'Shahazibazar 100 MW GT']",
+"['Sbu Haripur (BPDB Book Costs)', 'Haripur GTPP']",
+"['Titas 50 MW Peacking Power Plant', 'Titas 50 MW Peaking PP']",
+"['CLC Power Company Ltd.', 'CLC Power Co. Ltd. 108 MW Bosila Keranigonj']",
+"['APR Energy 300MW', 'APR Energy 300MW']",
+"['ENERGYPRIMA, BOGRA', 'Bogura 20 RPP (3 Yrs) Energy Prima']",
+"['IELCONSOURTIUM & ASSOCIATES', 'IEL, Meghnaghat 100 MW']",

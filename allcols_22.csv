@@ -1,0 +1,134 @@
+,plant_name,2022_usage,capacity_mw,start,net_generation_gwh,usage,2021_cost_per_unit,2022_cost_per_unit,own_IPP,own_Joint venture,own_Public,own_RENTAL & SIPP,fuel_GAS,fuel_HFO,fuel_HSD,fuel_HYDRO,fuel_SOLAR,fuel_WIND,2022_units
+0,Kumargao 10 MW Desh Combridge (15 Yrs),86.0,10,2009.0,61.4628,0.7,3.84,3.62,False,False,False,True,True,False,False,False,False,False,78.96187707936178
+1,Bogura 20 RPP (3 Yrs) Energy Prima,0.0,20,2011.0,30.3411,0.17,3.47,,False,False,False,True,True,False,False,False,False,False,0.0
+2,Barabkundu SIPP 22 MW (Regent Power),76.0,22,2009.0,157.7652,0.82,2.94,3.09,False,False,False,True,True,False,False,False,False,False,149.4775200227581
+3,Tangail SIPP (22 MW) (Doreen Power Ltd.),81.0,22,2008.0,141.1988,0.73,2.86,2.96,False,False,False,True,True,False,False,False,False,False,159.5888653325967
+4,Feni SIPP (22 MW) (Doreen Power Ltd.),84.0,22,2009.0,160.0048,0.83,2.87,2.9,False,False,False,True,True,False,False,False,False,False,165.6556725184999
+5,Bogura RPP (24MW) 15 yrs,87.0,22,2008.0,167.4902,0.87,,4.09,False,False,False,True,True,False,False,False,False,False,171.72247970440307
+6,Bhola 32 MW (Venture Energy Resources Ltd.),66.0,33,2009.0,199.538,0.69,3.99,3.55,False,False,False,True,True,False,False,False,False,False,193.08819196780118
+7,Jangalia 33 MW (Summit Purbanchol Po. Co. Ltd.),81.0,33,2009.0,258.2576,0.89,3.65,4.06,False,False,False,True,True,False,False,False,False,False,237.92981029838987
+8,Amnura 50MW Sinha Power,5.0,50,2012.0,34.312,0.08,6.66,13.15,False,False,False,True,False,True,False,False,False,False,18.205880478505367
+9,Katakhali (Northern) Peaking,15.8,50,2012.0,21.6708,0.05,10.5,16.48,False,False,False,True,False,True,False,False,False,False,66.63482827554114
+10,Fenchugonj 51 MW Rental (15 Yrs) (Barakatullah),78.0,51,2009.0,353.0717,0.79,3.12,,False,False,False,True,True,False,False,False,False,False,352.407824154128
+11,Ashugonj  55 MW 3Yrs Rental (Precision Energy),57.0,55,2010.0,208.8067,0.43,5.23,4.55,False,False,False,True,True,False,False,False,False,False,276.4408472176013
+12,Sahzibazar 86 MW RPP (15 yrs),82.0,86,2009.0,605.4847,0.8,3.37,3.54,False,False,False,True,True,False,False,False,False,False,623.0401794905043
+13,Shiddirganj  Dutchbangla 100 MW,19.0,100,2011.0,366.3626,0.42,12.53,20.19,False,False,False,True,False,True,False,False,False,False,164.51265087477898
+14,Julda Acorn Infra.service Ltd.100MW,25.0,100,2018.0,189.9422,0.22,16.49,18.44,False,False,False,True,False,True,False,False,False,False,217.79504442053732
+15,"Power Pac Mutiara,Keranigonj,100MW",10.0,100,2011.0,217.866,0.25,8.23,27.37,False,False,False,True,False,True,False,False,False,False,84.58906055614153
+16,Summit  Power Co. Ltd Madangonj (100 MW),13.0,102,2011.0,353.3363,0.4,9.72,19.21,False,False,False,True,False,True,False,False,False,False,113.51630061646247
+17,KPCL( 115 MW) U-2,11.0,115,2011.0,433.6464,0.43,11.53,19.91,False,False,False,True,False,True,False,False,False,False,107.97704188150739
+18,Fenchugonj 50 MW Rental (Energy Prima),13.0,44,2009.0,219.7947,0.86,3.27,3.03,False,False,False,True,True,False,False,False,False,False,47.22104528065098
+19,Shahjahanullah Power Gen Co. Ltd.,55.0,25,2013.0,102.6552,0.47,3.45,3.45,False,False,False,True,True,False,False,False,False,False,121.51745212250869
+20,Khanjahan Ali Noapara  40 MW,9.0,40,2011.0,92.2828,0.29,14.77,"19,61",False,False,False,True,False,True,False,False,False,False,28.229301046519307
+21,Ghorashal 78 MW QRPP (3 Yrs Max Power),0.0,78,2011.0,102.4493,0.35,7.92,-,False,False,False,True,True,False,False,False,False,False,0.0
+22,Kutubdia 900KW Wind PP,,0,2008.0,0.6083,,6.18,422,False,False,True,False,False,False,False,False,False,True,
+23, Ghorasal TPP Unit-6,0.0,0,2022.0,-2.206,,3.13,68129,False,False,True,False,True,False,False,False,False,False,0.0
+24,Sharishabari 3 MW Engreen Solar Power Plant,15.0,3,2017.0,3.9442,0.15,16.11,16.42,True,False,False,False,False,False,False,False,True,False,1.0605558226920513
+25,Kaptai Solar,15.2,7,2019.0,9.7123,0.159,5.79,1556,False,False,True,False,False,False,False,False,True,False,6.476719919092563
+26,Sympa Solar Power 8 MW,17.0,8,2019.0,11.269,0.16,11.04,11.26,True,False,False,False,False,False,False,False,True,False,9.237556812387632
+27,20 MW Solar Teknaf,21.0,20,2018.0,33.4382,0.19,11.8,12.04,True,False,False,False,False,False,False,False,True,False,34.559882457896535
+28,Saidpur 20 MW /GT,0.74,20,1987.0,2.0647,0.013,95.47,182.97,False,False,True,False,False,False,True,False,False,False,0.0
+29,Sylhet 1x20 MW /GT,37.7,20,1986.0,111.0293,0.637,3.78,3.6,False,False,True,False,True,False,False,False,False,False,65.3950894158131
+30,Bheramara GT unit-3,,20,1980.0,-0.1532,0.0,,,False,False,True,False,False,False,True,False,False,False,
+31,Rangpur 20 MW /GT,1.29,20,1988.0,1.4037,0.009,150.66,113.92,False,False,True,False,False,False,True,False,False,False,0.0
+32,Tangail Polly Power 22 MW TPPGCl,,22,2020.0,74.9804,0.39,12.43,15.83,True,False,False,False,False,True,False,False,False,False,
+33,Haripur GTPP,,32,,-0.4225,,,-693.232516703786,False,False,True,False,True,False,False,False,False,False,
+34,Manikganj 35MW Spectra Solar Park Ltd.,17.0,35,2021.0,29.1477,0.1,10.36,11.96,True,False,False,False,False,False,False,False,True,False,49.595013309917434
+35,50 MW HDFC Solar Power Plant,21.0,50,2020.0,64.8588,0.15,14.38,14.7,True,False,False,False,False,False,False,False,True,False,89.95246980744724
+36,Baraka Patenga,51.0,50,2014.0,198.9216,0.45,11.88,15.55,True,False,False,False,False,True,False,False,False,False,224.47732479921328
+37,Santahar 50 MW PP,15.9,50,2012.0,42.8089,0.1,21.57,19.57,False,False,True,False,False,True,False,False,False,False,67.08324445884702
+38,Sinha Peoples Energy Ltd.Katpatti 52.5 MW Exp,5.7,51,2015.0,21.3606,0.05,38.65,19.58,True,False,False,False,False,True,False,False,False,False,21.845964790047272
+39,Midland Power Co. Ashuganj 51 MW,83.0,51,2013.0,294.124,0.66,3.16,2.75,True,False,False,False,True,False,False,False,False,False,375.26825702854575
+40,Titas 50 MW Peaking PP,23.3,52,2011.0,45.1598,0.104,17.0,18.5855546668254,False,False,True,False,False,True,False,False,False,False,104.3633349925129
+41,Lakdhanvi lanka- Bangla Jangalia Cumilla 52MW,48.0,52,2014.0,158.5054,0.35,13.99,16.83,True,False,False,False,False,True,False,False,False,False,219.46561451520628
+42,Raj Lanka Power Gen.Com. Ltd.Nator 55 MW,52.0,52,2012.0,146.3081,0.32,12.35,15.58,True,False,False,False,False,True,False,False,False,False,238.10565978203923
+43,Gazipur 52 MW PP,47.3,52,2012.0,112.6812,0.255,15.93,18.11,False,False,True,False,False,True,False,False,False,False,216.2036065935105
+44,Baghabari 50 MW Peaking RE,23.8,52,1991.0,85.4892,0.191,14.52,1926,False,False,True,False,False,True,False,False,False,False,106.69334065086703
+45,Ashuganj 50 MW PP,50.9,53,1986.0,184.7955,0.483,2.38,2.14,False,False,True,False,True,False,False,False,False,False,237.4550166925366
+46,Faridpur 50 MW Peaking PP,9.7,54,2011.0,15.5429,0.037,46.96,20.93,False,False,True,False,False,True,False,False,False,False,42.69292107667977
+47,Bhairab Power 54.5 MW,42.0,54,2021.0,70.3824,0.15,12.48,16.95,True,False,False,False,False,True,False,False,False,False,198.89122492823032
+48,Kamalaghat Banco Energy Generation,80.0,54,2018.0,309.349,0.65,11.47,15.83,True,False,False,False,False,True,False,False,False,False,382.6539353418192
+49,Jodiac Power,68.0,54,2019.0,276.7625,0.59,11.15,15.7,True,False,False,False,False,True,False,False,False,False,324.62360573752795
+50,Dhaka(Doreen) Northern Power Ltd.Manikgonj,62.0,55,2012.0,231.8441,0.48,11.39,16.48,True,False,False,False,False,True,False,False,False,False,301.0597749285127
+51,Summit Narayangonj Power unit-2 Madangonj (55 MW),60.0,55,2016.0,259.5017,0.54,11.44,17.29,True,False,False,False,False,True,False,False,False,False,291.2122038441481
+52,Dhaka(Doreen) Southern Power Ltd.Nobabgonj,64.0,55,,237.8964,0.49,11.28,16.2,True,False,False,False,False,True,False,False,False,False,310.90734601287727
+53,"Shahjibazar 70 MW GT, Habiganj",72.3,70,2000.0,361.4274,0.628,3.64,3.04,False,False,True,False,True,False,False,False,False,False,447.12914852185975
+54,"Baghabari 71 MW /GT
+Baghabari 100 MW /GT",8.6,71,1991.0,57.6144,0.18,9.01,1652,False,False,True,False,True,False,False,False,False,False,50.22807145105516
+55,Bera 70 MW Peaking RE,9.9,71,2011.0,31.2907,0.052,32.75,2259,False,False,True,False,False,True,False,False,False,False,58.45782728584555
+56,Powerpac Mutiara Jamalpur Power plant Ltd,2.0,95,,289.7374,0.35,11.28,22.02,True,False,False,False,False,True,False,False,False,False,12.666621743550294
+57,Fenchuganj C.C. (Unit #1),49.4,97,1994.0,396.7305,0.662,3.61,3.12,False,False,True,False,True,False,False,False,False,False,421.4463314348696
+58,Hathazari 100 MW Peaking PP,3.4,98,2011.0,-0.8567,0.001,,31.67,False,False,True,False,False,True,False,False,False,False,25.38053941139955
+59,Noapara100MW (Bangla Trac),12.0,100,2018.0,122.2197,0.14,31.38,36.28,True,False,False,False,False,False,True,False,False,False,102.34985840472766
+60,Juldha Acorn 100 MW Unit-3,67.0,100,2020.0,610.5613,0.7,9.93,15.09,True,False,False,False,False,True,False,False,False,False,590.7717992408454
+61,Shahazibazar 100 MW GT,7.3,100,2021.0,39.4552,0.052,1.89,8.98,False,False,True,False,True,False,False,False,False,False,60.61198346055029
+62,"Aggreko, Brahmangaon 100MW",14.0,100,2019.0,28.8673,0.03,76.01,35.24,True,False,False,False,False,False,True,False,False,False,120.11065625331375
+63,"Aggreko, Aourahati 100MW",15.0,100,2020.0,37.1663,0.04,64.13,33.58,True,False,False,False,False,False,True,False,False,False,128.9910551776068
+64,Digital  Power & Associates Gagnagar,49.0,102,2014.0,325.564,0.36,11.48,16.96,True,False,False,False,False,True,False,False,False,False,439.54124330238955
+65,"Sangu, Dohazari-kaliaish 100 MW PPP",15.2,102,2011.0,203.2578,0.234,13.4,19Jl4,False,False,True,False,False,True,False,False,False,False,133.44004711393578
+66,Orion Power Sonargaon Ltd.,70.0,104,2020.0,451.8127,0.5,11.28,13.19,True,False,False,False,False,True,False,False,False,False,642.0319237246359
+67,"Chapainobabgonj Peaking Power Station 100 MW, Amnura",28.3,104,2017.0,259.43144,0.291,12.5,23.03,False,False,True,False,False,True,False,False,False,False,257.05344164525854
+68,Fenchuganj C.C. (Unit #2),34.3,104,1994.0,240.2846,0.34,3.61,3.12,False,False,True,False,True,False,False,False,False,False,312.4460289948092
+69,Modhumoti 105 MW NWPGCL,11.0,105,2019.0,12.4258,0.015,127.97,28.45,False,False,True,False,False,True,False,False,False,False,98.3053202807922
+70,Lobonchora Orion Power Rupsha Ltd. 105 MW,59.0,105,2018.0,361.1674,0.004,12.7,16.73,True,False,False,False,False,True,False,False,False,False,545.6664066847827
+71,Tongi 80 MW GTPP,0.0,105,2005.0,-0.2004,,,,False,False,True,False,True,False,False,False,False,False,0.0
+72,Gazipur 100 MW PP,58.2,105,2019.0,370.9008,0.41,12.25,16.68,False,False,True,False,False,True,False,False,False,False,538.2103885780496
+73,Baraka Shikalbaha 105MW PS,66.0,105,2017.0,160.1848,0.17,17.38,16.07,True,False,False,False,False,True,False,False,False,False,610.9065651186979
+74,ECPV Chattogram Limited 108 MW,43.0,108,2019.0,190.2545,0.2,13.5,17.58,True,False,False,False,False,True,False,False,False,False,407.88833624550335
+75,CLC Power Co. Ltd. 108 MW Bosila Keranigonj,0.0,108,2017.0,0.0,0.0,,,True,False,False,False,False,True,False,False,False,False,0.0
+76,Regent Energy & Power Ltd 108 MW,38.0,108,2014.0,591.4501,0.63,2.92,4.08,True,False,False,False,True,False,False,False,False,False,359.9693519510508
+77,Gopalganj 100 MW Peaking PP,2.2,109,2011.0,4.1326,0.007,218.79,51.49,False,False,True,False,False,True,False,False,False,False,17.062858834784482
+78,Summit   Barishal (110 MW),6.5,110,2016.0,218.6086,0.23,14.49,36.85,True,False,False,False,False,True,False,False,False,False,59.22277253972031
+79,Karnaphuli Power Ltd.,72.0,110,2019.0,87.2665,0.09,25.6,15.47,True,False,False,False,False,True,False,False,False,False,698.4796079760829
+80,HF 113 MW Power Limited,58.0,113,2019.0,551.0603,0.56,10.8,15.41,True,False,False,False,False,True,False,False,False,False,577.1434642580194
+81,Confidence Power  Ltd. 113MW Rangpur,63.0,113,2019.0,494.4,0.5,11.47,16.03,True,False,False,False,False,True,False,False,False,False,627.2605670980892
+82,Bogura 113 MW PP (Confidence) Unit-1,62.0,113,2019.0,468.1931,0.47,11.68,16.46,True,False,False,False,False,True,False,False,False,False,617.2371465300752
+83,Confidence CPBL- 2 Bogura,66.0,113,2019.0,447.8107,0.45,12.52,16.56,True,False,False,False,False,True,False,False,False,False,657.3308288021309
+84,United Jamalpur PPL,62.0,115,2019.0,538.4717,0.53,12.39,17.25,True,False,False,False,False,True,False,False,False,False,628.139814516336
+85,Anlima Chattogram 116 MW,74.0,116,2021.0,125.1359,0.12,14.3,15.18,True,False,False,False,False,True,False,False,False,False,757.0374860313221
+86,Kodda 150 MW PP,,149,2018.0,387.4975,0.308,15.1,19.84,False,False,True,False,False,True,False,False,False,False,
+87,Kodda Gazipur 149MW Power Ltd. (unit-1 Summit) ACE Alliance,62.0,149,2018.0,791.75,0.61,10.57,16.49,True,False,False,False,False,True,False,False,False,False,813.4851702827691
+88,United Payra PP Patuakhali Imp,6.0,150,2021.0,33.4596,0.03,32.23,32.53,True,False,False,False,False,True,False,False,False,False,75.44488740637443
+89, Ashuganj TPP Unit-3,16.0,150,1987.0,222.9391,0.209,5.23,7.24,False,False,True,False,True,False,False,False,False,False,208.2112475616468
+90, Ashuganj TPP Unit-4,0.0,150,1987.0,279.6746,0.261,5.23,7.24,False,False,True,False,True,False,False,False,False,False,0.0
+91, Ashuganj TPP Unit-5,18.5,150,1988.0,215.2755,0.202,5.23,7.24,False,False,True,False,True,False,False,False,False,False,241.40283760046486
+92,Manikganj 162MW P0wer Generation,73.0,162,2020.0,373.1234,0.26,13.55,15.81,True,False,False,False,False,True,False,False,False,False,1042.0015742851222
+93,Chandpur 150 MW CCPP,54.0,163,2012.0,596.5169,0.441,3.55,223,False,False,True,False,True,False,False,False,False,False,774.4465849126096
+94,Kushiara power Co. Ltd (163MW)CCPP Fenchuganj,73.0,163,2017.0,1065.5715,0.75,2.99,3.07,True,False,False,False,True,False,False,False,False,False,1048.420080438324
+95,Bhola 225 MW CCPP,39.8,194,2015.0,315.2895,0.201,6.49,538,False,False,True,False,True,False,False,False,False,False,678.1689926145809
+96,Paramount Baghabari BanglaTrack,6.0,200,2019.0,22.1198,0.01,180.67,55.39,True,False,False,False,False,False,True,False,False,False,101.82230995377954
+97,Daudkandi 200MW(Bangla Trac),9.0,200,2018.0,40.5404,0.02,105.72,42.33,True,False,False,False,False,False,True,False,False,False,154.8409292740638
+98,Desh Energy Chandpur  200 MW,43.0,200,2018.0,535.4999,0.31,13.57,17.2,True,False,False,False,False,True,False,False,False,False,755.718614903952
+99,210 MW Shiddirganj TPP,0.0,210,2019.0,-1.287,,,,False,False,True,False,True,False,False,False,False,False,0.0
+100,Siddhirganj 2x120 MW GTPP,6.6,210,2019.0,563.9633,0.318,4.78,14.05,False,False,True,False,True,False,False,False,False,False,118.22906677826549
+101,Rauzan 210 MW /ST (1st),27.8,210,1997.0,403.4491,0.297,5.2,423,False,False,True,False,True,False,False,False,False,False,511.5340219084404
+102,Rauzan 210 MW /ST (2nd),13.4,210,1997.0,0.0,,5.2,423,False,False,True,False,True,False,False,False,False,False,244.38348634832164
+103, Ghorasal TPP Unit-5,30.9,210,1989.0,963.6894,0.62,3.13,68129,False,False,True,False,True,False,False,False,False,False,569.045595535966
+104,Sirajgonj 210 MW CC (NWPGCL) Unit-1,12.9,210,2012.0,216.5913,0.122,11.01,9.56,False,False,True,False,True,False,False,False,False,False,235.10742608581754
+105,Rural Power Company Ltd.(RPCL),61.0,210,2007.0,1150.0912,0.63,3.34,3.73,True,False,False,False,True,False,False,False,False,False,1127.4644233387148
+106, Ghorasal Repowered CCPP Unit-4,29.3,210,2022.0,280.5226,0.197,3.13,68129,False,False,True,False,True,False,False,False,False,False,539.3622026959529
+107,Sirajgonj 210 MW CC (NWPGCL) Unit-3,66.0,220,,1447.0055,0.781,3.38,3.89,False,False,True,False,True,False,False,False,False,False,1278.255355568047
+108,Nutan Biddyut 220MW Bhola,85.0,220,2021.0,266.9117,0.14,1.76,3.01,True,False,False,False,True,False,False,False,False,False,1647.451346489894
+109,Ashuganj 225 MW CCPP,83.1,221,1987.0,1574.3307,0.828,3.26,3.32,False,False,True,False,True,False,False,False,False,False,1617.83829344334
+110,Shikalbaha 225 MW PS,19.7,225,2017.0,1014.6721,0.536,2.98,852,False,False,True,False,True,False,False,False,False,False,387.24360686506765
+111,Karnafuli Hydro,37.0,230,1962.0,654.9908,0.326,3.0,2.7,False,False,True,False,False,False,False,True,False,False,747.2778396887825
+112,Sylhet 225 MW CCPP,,231,2020.0,1075.5239,0.548,2.95,213,False,False,True,False,True,False,False,False,False,False,
+113,"Barapukuria Coal based S/T (unit 1,2)",20.13,250,2006.0,86.4905,0.078,11.24,8.13,False,False,True,False,False,False,False,False,False,False,440.0362595988625
+114, Ghorasal Repowered CCPP Unit-3,0.3,260,2021.0,47.1487,0.023,3.13,68129,False,False,True,False,True,False,False,False,False,False,2.6695785980837616
+115,Barapukuria Coal based S/T (unit 3),50.83,274,2018.0,1098.3259,0.518,8.82,8.13,False,False,True,False,False,False,False,False,False,False,1224.8190937240956
+116,Kodda Gazipur 300MW Power Ltd.(unit-2 Summit),54.0,300,2018.0,1280.2528,0.49,10.91,17.18,True,False,False,False,False,True,False,False,False,False,1424.9138249316195
+117,United Anwara 300MW PS,64.0,300,2019.0,1195.9981,0.46,11.36,16.66,True,False,False,False,False,True,False,False,False,False,1689.5672978239174
+118,Summit Meghnaghat Power Co.Ltd.,57.0,305,2015.0,1559.0939,0.58,4.2,4.22,True,False,False,False,True,False,False,False,False,False,1529.3684182193435
+119,Shahjibazar 330 MW CCPP,39.3,330,2016.0,1505.2982,0.546,2.84,4B4,False,False,True,False,True,False,False,False,False,False,1139.5364903912437
+120,Siddhirganj 335 MW CCPP,51.1,335,2019.0,1042.3959,0.373,3.52,4.2,False,False,True,False,True,False,False,False,False,False,1505.4177185463
+121,Haripur Power Ltd.,61.0,360,2001.0,2315.379,0.73,1.68,1.7,True,False,False,False,True,False,False,False,False,False,1931.9758110345704
+122,Ashuganj 450 MW CCPP (North),66.8,360,2017.0,2088.9237,0.694,2.82,2.95,False,False,True,False,True,False,False,False,False,False,2116.072635467093
+123,Ashuganj 450 MW CCPP (South),70.0,360,2017.0,1955.573,0.646,3.87,3.76,False,False,True,False,True,False,False,False,False,False,2217.6432972229672
+124,Ghorasal 365 MW CCPP Unit-7,49.9,365,2018.0,1315.1245,0.434,3.35,68129,False,False,True,False,True,False,False,False,False,False,1601.5898011541385
+125,Bibiyana - South  383 MW CCPP,78.8,383,2021.0,1351.3021,0.406,1.95,JBS,False,False,True,False,True,False,False,False,False,False,2656.317419134679
+126,Bibiana III 400 MW CCPP,64.1,400,2019.0,1839.712,0.549,2.04,133,False,False,True,False,True,False,False,False,False,False,2255.8114276490624
+127,Haripur 412 MW CCPP,57.7,412,1987.0,1817.5804,0.527,3.01,2.5,False,False,True,False,True,False,False,False,False,False,2091.0404614696054
+128,Sembcorp NWPGCL,78.0,414,2016.0,2945.2366,0.81,3.07,3.24,True,False,False,False,True,False,False,False,False,False,2841.9089641782216
+129,"Payra, Potuakhali 2*660 MW PP (U-1)",40.5,622,2020.0,2049.4159,0.397,8.6,13.85,False,True,False,False,False,False,False,False,False,False,2214.258194662717
+130,"Payra, Potuakhali 2*660 MW PP (U-2)",38.3,622,2020.0,1762.5061,0.339,8.6,13.85,False,True,False,False,False,False,False,False,False,False,2093.7485435178055
+131,Shikalbaha 150 MW Peaking PP,50.0,150,2010.0,641.9223,0.505,3.28,8.63,False,False,True,False,True,False,False,False,False,False,659.6168720895728

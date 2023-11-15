@@ -1,0 +1,10 @@
+,0,1,2,3,,,,Dep. Variable:,log_2021_cost_per_unit
+0,Dep. Variable:,log_2021_cost_per_unit,  R-squared:         ,0.765,,,,  R-squared:         ,0.765
+1,Model:,OLS,  Adj. R-squared:    ,0.723,,,,  Adj. R-squared:    ,0.723
+2,Method:,Least Squares,  F-statistic:       ,18.07,,,,  F-statistic:       ,18.07
+3,Date:,"Fri, 06 Oct 2023",  Prob (F-statistic):,3.45E-26,,,,  AIC:               ,248.9
+4,Time:,18:56:27,  Log-Likelihood:    ,-103.44,,,,  Log-Likelihood:    ,-103.44
+5,No. Observations:,132,  AIC:               ,248.9,,,,,
+6,Df Residuals:,111,  BIC:               ,309.4,,,,,
+7,Df Model:,20,                     , ,,,,,
+8,Covariance Type:,nonrobust,                     , ,,,,,
